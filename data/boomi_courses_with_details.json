@@ -1,0 +1,2807 @@
+[
+  {
+    "title": "Administrator 2- Linux",
+    "description": "Discover the power of local deployment and administration of Linux Atoms with our comprehensive course.",
+    "duration": "3 hr 13 min",
+    "link": "https://train.boomi.com/administrator-2-linux",
+    "details": {
+      "paragraphs": [
+        "This course provides the knowledge and tools necessary to effectively install and configure a local atom in the Linux environment. It covers Boomi Runtime options, local atom installation, and the directories and files created by the local atom. Also, it covers how to start, stop and restart a local atom from the command line. Additionally, covered are release control, purging, managing local runtimes, shared web server, and single sign-on (SSO).",
+        "Objectives",
+        "Recommended Prerequisites\nGetting Started with the Boomi Platform\nIntegration Essentials\nAssociate Administrator\nAssociate Administration Certification",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Boomi Runtime Options",
+        "Local Atom Runtime Installation",
+        "Directories and File Logs",
+        "Start, Stop and Restart Atom",
+        "Release Control",
+        "Purging",
+        "Manage Local Runtimes",
+        "Shared Web Server",
+        "Single Sign-On (SSO)",
+        "Materials",
+        "How to Rename Your Runtime and Atom Cloud 0 hr 2 min",
+        "Introduction to Admin 2 - Linux",
+        "Introduction to Admin 2- Linux 0 hr 2 min",
+        "Understanding Boomi Runtimes and their Requirements",
+        "Lecture: Boomi Runtime Options 0 hr 20 min",
+        "Activity: Setup for Admin 2 - Linux Class 0 hr 2 min",
+        "Lecture: Atom Hardware/Software Requirements 0 hr 5 min",
+        "Atom Installation. Process Deployment and Execution",
+        "Lecture: Installation Checklist 0 hr 5 min",
+        "Activity: Local Atom Installation. Process Deployment/Execution 0 hr 15 min",
+        "Directory Structure",
+        "Lecture: Directory Structure 0 hr 15 min",
+        "Walkthrough: Directory Structure 0 hr 5 min",
+        "Log Files and Container Logs",
+        "Lecture: Log Files 0 hr 5 min",
+        "Lecture: HTTP and Container Logs 0 hr 10 min",
+        "Activity: Container Logs 0 hr 5 min",
+        "Start, Stop, and Restart an Atom",
+        "Lecture: Start, Stop, and Restart Atom 0 hr 5 min",
+        "Activity: Start, Stop, and Restart Atom 0 hr 5 min",
+        "Start, Stop, and Restart an Atom on Linux",
+        "Lecture: Start, Stop, and Restart an atom on Linux 0 hr 5 min",
+        "Activity: Start, Stop, and Restart an atom on Linux 0 hr 5 min",
+        "Changing an Atom's Default Settings",
+        "Lecture: Change the Atom's Default Settings 0 hr 5 min",
+        "Activity: Increasing Atom Memory 0 hr 5 min",
+        "Purging",
+        "Lecture: Purging 0 hr 5 min",
+        "Activity: Purge Schedule 0 hr 5 min",
+        "Release Control/ Managing Local Runtimes",
+        "Lecture: Release Control 0 hr 5 min",
+        "Lecture: Manage Local Runtimes 0 hr 10 min",
+        "Activity: Local Runtime Monitoring 0 hr 11 min",
+        "Publishing Packaged Processes",
+        "Lecture: Process Library 0 hr 10 min",
+        "Atom Management and Messaging",
+        "Lecture: Shared Web Server 0 hr 6 min",
+        "Lecture: Shared Queue Server 0 hr 9 min",
+        "Advanced User Security (SSO)",
+        "Lecture: Single-Sign On within Boomi 0 hr 5 min",
+        "Uninstall Local Atom",
+        "Lecture: Uninstall Atom 0 hr 3 min",
+        "Activity: Uninstall Atom 0 hr 3 min",
+        "Next Steps",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "API Management Path",
+    "description": "Begin your journey to earning your API Management certification!",
+    "duration": "7 Courses",
+    "link": "https://train.boomi.com/path/api-management",
+    "details": {
+      "paragraphs": [],
+      "lists": [
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Associate Event Streams",
+    "description": "Want to learn about Event Streams service? This course covers the fundamentals of Event-Driven Architecture before covering specific topics relating to Event Streams.",
+    "duration": "4 hr 37 min",
+    "link": "https://train.boomi.com/associate-event-streams",
+    "details": {
+      "paragraphs": [
+        "This course provides the knowledge and tools necessary to effectively design Event Streams in The Boomi Platform. This course is intended for cloud and network professionals who want to learn how to create and configure an Event Broker solution. It covers the fundamentals of Event-Driven Architecture, tasks for designing and configuring the Event Streams Service, creating Topics, Subscriptions, and using the Event Streams connector when designing a Consumer Integration Process. You will also practice updating Integration Processes to use the Event Streams Connector and Triggering Events.",
+        "Objectives",
+        "Recommended Prerequisites",
+        "Getting Started with the Boomi Platform\nIntegration Essentials \nAssociate Integration Developer \nProfessional Integration Developer\n\nThe Boomi Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi Platform."
+      ],
+      "lists": [
+        "Explain the fundamentals of Event-Driven Architecture and its function in a Boomi iPaaS Integration solution",
+        "Distinguish between Event-Driven Architecture solutions like Atom Queues, EDA Connectors, and Event Streams Service",
+        "Outline the benefits of the Event Streams service and create an Event Streams Broker",
+        "Create a Producer Integration Process",
+        "Create an Exclusive Consumer Integration Process",
+        "Create a Shared Consumer Integration Process",
+        "Work with the Dead Letter Queue (DLQ)",
+        "Create a Failover Consumer Integration Process",
+        "Explore the Event Streams Message Management",
+        "Recognize common problems and apply recommended best practices to solve them",
+        "How to Rename Your Runtime and Atom Cloud 0 hr 2 min",
+        "An Overview of Event-Driven Architecture 0 hr 30 min",
+        "Boomi’s Event-Driven Solutions 0 hr 20 min",
+        "What Is the Events Stream Service? 0 hr 30 min",
+        "Creating a Producer Process 0 hr 30 min",
+        "Creating an Exclusive Consumer Process 0 hr 30 min",
+        "Creating Shared Consumer Processes 0 hr 45 min",
+        "Creating a Failover Consumer Process 0 hr 30 min",
+        "Exploring the Event Streams Message Management 0 hr 30 min",
+        "Troubleshooting and Resources 0 hr 30 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Associate Integration Developer",
+    "description": "Did Integration Essentials pique your interest? This course introduces complex processes using interactive activities.",
+    "duration": "5 hr 15 min",
+    "link": "https://train.boomi.com/associate-integration-developer",
+    "details": {
+      "paragraphs": [
+        "Did Integration Essentials increase your desire to learn more about being a Boomi Developer? Using multiple scenarios, this associate-level course teaches you to create complex processes. You will also learn about the development life cycle, document flow, properties, and developer administration tools.",
+        "Objectives:\nBy the end of this course, you should be able to:",
+        "Recommended Prerequisites:\nGetting Started with the Boomi Platform\nIntegration Essentials \n\nThe Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from those in the Boomi platform."
+      ],
+      "lists": [
+        "Build, test, and troubleshoot intermediate-level integration processes",
+        "Explain the Development Life Cycle",
+        "Manage and Schedule processes",
+        "Describe the different property types",
+        "Incorporate basic administration tasks",
+        "Analyze how documents flow through a process and how to control them",
+        "Precourse Configuration 0 hr 25 min",
+        "Identifying Prospects 1 hr 25 min",
+        "Tracking New Customers 1 hr 15 min",
+        "Manage and Schedule Processes 0 hr 30 min",
+        "Development Life Cycle 0 hr 30 min",
+        "Understanding Properties 0 hr 30 min",
+        "Document Flow 0 hr 40 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Associate Administrator Certification",
+    "description": "Are you ready to take your administration skills to the next level and demonstrate your expertise? Look no further than the Associate Administration Certification.",
+    "duration": "1 hr 2 min",
+    "link": "https://train.boomi.com/associate-administrator-certification",
+    "details": {
+      "paragraphs": [
+        "This certification exam is for learners who have finished the required course and are interested in earning the certification. It verifies an understanding of the foundational knowledge and skills presented in the associated course.",
+        "Highlights:",
+        "For more information, check the Certification Overview.",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "The exam is open-book and open-platform.",
+        "There is no time limit for completing the certification exam.",
+        "The certification exam contains multiple-choice and multiple-response questions.",
+        "Some certification exams include a multiple-choice practical section requiring you to apply concepts in the Boomi platform to determine the correct answers.",
+        "How to Rename Your Runtime and Atom Cloud 0 hr 2 min",
+        "Certification Exam and Assessment Exam Information",
+        "General Knowledge 1 hr 0 min",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Associate Flow Essentials Certification",
+    "description": "Are you ready to put your knowledge to the test? Vaildate your skills as a Flow Developer.",
+    "duration": "1 hr 0 min",
+    "link": "https://train.boomi.com/associate-flow-essentials-certification",
+    "details": {
+      "paragraphs": [
+        "This certification exam is for learners who have finished the required course and are interested in earning the certification. This exam verifies an understanding of foundational knowledge and skills presented in the associated course.",
+        "Highlights:",
+        "For more information, check the Certification Overview.",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "The exam is open-book and open-platform.",
+        "There is no time limit for completing the certification exam.",
+        "The certification exam contains multiple-choice and multiple-response questions.",
+        "Some certification exams include a multiple-choice practical section requiring you to apply concepts in the Boomi platform to determine the correct answers.",
+        "Certification Exam and Assessment Exam Information",
+        "General Knowledge 1 hr 0 min",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Associate Event Streams Certification",
+    "description": "Earn this certification to validate your Associate Event Streams knowledge and skills.",
+    "duration": "1 hr 0 min",
+    "link": "https://train.boomi.com/associate-event-streams-certification",
+    "details": {
+      "paragraphs": [
+        "This certification exam is for learners who have finished the required course and are interested in earning the certification. This exam verifies an understanding of foundational knowledge and skills presented in the associated course.",
+        "*** The Database Connector was renamed from \"Database\" to \"Database (Legacy)\" during the November release. We are currently updating our courses to reflect this change. Thank you for your patience. ***",
+        "Highlights:",
+        "For more information, check the Certification Overview.",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "The exam is open-book and open-platform.",
+        "There is no time limit for completing the certification exam.",
+        "The certification exam contains multiple-choice and multiple-response questions.",
+        "Some certification exams include a multiple-choice practical section requiring you to apply concepts in the Boomi platform to determine the correct answers.",
+        "Certification Exam and Assessment Exam Information",
+        "General Knowledge 1 hr 0 min",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Associate EDI for X12 Certification",
+    "description": "Advance your EDI knowledge and show your EDI Integration developer skills.",
+    "duration": "1 hr 0 min",
+    "link": "https://train.boomi.com/associate-edi-for-x12-certification",
+    "details": {
+      "paragraphs": [
+        "This certification exam is for learners who have finished the required course and are interested in earning the certification. This exam verifies an understanding of foundational knowledge and skills presented in the associated course.",
+        "Highlights:",
+        "Fore more information, check the Certification Overview.",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "The exam is open-book and open-platform.",
+        "There is no time limit for completing the certification exam.",
+        "The certification exam contains multiple-choice and multiple-response questions.",
+        "Some certification exams include a multiple-choice practical section requiring you to apply concepts in the Boomi platform to determine the correct answers.",
+        "Certification Exam and Assessment Exam Information",
+        "General Knowledge 1 hr 0 min",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Associate EDI for X12",
+    "description": "Launch your EDI journey! This course equips you with the essentials to build EDI processes on Boomi. Master profiles, qualifiers, partners, and deploy with confidence. Gain foundational knowledge for seamless data exchange.",
+    "duration": "7 hr 47 min",
+    "link": "https://train.boomi.com/associate-edi-for-x12",
+    "details": {
+      "paragraphs": [
+        "Associate EDI for X12 provides the foundational knowledge needed to create an EDI process in the Boomi Enterprise Platform. It covers basic EDI development including creating and using EDI profiles, qualifiers, and identifier instances. You will also learn how to set up Trading Partners for My Company and the partner you trade with. Finally, you will package and deploy a process with Document Tracking.",
+        "Objectives",
+        "Recommended Prerequisites\nGetting Started with the Boomi Platform\nIntegration Essentials\nEDI Essentials",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Define and create EDI profiles",
+        "Create qualifiers and add identifier instances",
+        "Create and use My Company and Trading Partners",
+        "Implement Document Tracking on EDI specific processes",
+        "Materials",
+        "How to Rename Your Runtime and Atom Cloud 0 hr 2 min",
+        "Associate EDI for X12 7 hr 45 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Associate Flow Essentials",
+    "description": "New to Flow and looking to build your first application? This course teaches you how to use Flow to create new experiences for your customers.",
+    "duration": "6 hr 35 min",
+    "link": "https://train.boomi.com/associate-flow-essentials",
+    "details": {
+      "paragraphs": [
+        "This course is for Boomi users who are new to Flow and looking to build their first application. Associate Flow Essentials teaches you how Flow can be used to create new experiences for your customers, partners, or employees. The course will introduce you to Flow and how to utilize its tools to build an application. You'll explore the Flow canvas, shapes, and fundamentals needed to create an application and automate workflows.",
+        "Objectives",
+        "Recommended Prerequisites\nGetting Started with the Boomi Platform",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Describe what Boomi Flow is and how you can leverage its tools to create an application",
+        "Create and edit a flow",
+        "Identify map element functions",
+        "Explain the functions of basic components and page conditions in Boomi Flow",
+        "Add operator elements, business rules, and configure a connector within your flow",
+        "Materials",
+        "What is Boomi Flow 0 hr 15 min",
+        "Getting Started with Flow 0 hr 45 min",
+        "Creating a Flow 0 hr 35 min",
+        "Map Elements 1 hr 30 min",
+        "Components and Page Conditions 2 hr 0 min",
+        "Enhancing Your Flow 1 hr 30 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Administrator 2- Windows",
+    "description": "Discover the power of local deployment and administration of Windows Atoms with our comprehensive course.",
+    "duration": "3 hr 0 min",
+    "link": "https://train.boomi.com/administrator-2-windows",
+    "details": {
+      "paragraphs": [
+        "This course provides the knowledge and tools to install and configure a local atom in the Windows environment. It covers Boomi Runtime options, local atom installation, and the directories and files created by the local atom. It also covers how to start, stop, and restart a local atom from Windows Services. Additionally, release control, purging, managing local runtimes, shared web servers, and single sign-on (SSO) are covered.",
+        "Objectives",
+        "Recommended Prerequisites\nGetting Started with the Boomi Platform\nIntegration Essentials\nAssociate Administrator\nAssociate Administration Certification\n\nThe Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Boomi Runtime Options",
+        "Local Atom Runtime Installation",
+        "Directories and File Logs",
+        "Start, Stop and Restart Atom",
+        "Release Control",
+        "Purging",
+        "Manage Local Runtimes",
+        "Shared Web Server",
+        "Single Sign-On (SSO)",
+        "Materials",
+        "How to Rename Your Runtime and Atom Cloud 0 hr 2 min",
+        "Introduction to Admin 2 - Windows",
+        "Welcome and Agenda 0 hr 5 min",
+        "Understanding Boomi Runtimes and their Requirements",
+        "Boomi Runtime Options 0 hr 18 min",
+        "Atom Hardware/Software Requirements 0 hr 5 min",
+        "Atom Installation, Process Deployment and Execution",
+        "Local Atom Installation 0 hr 15 min",
+        "Directory Structure",
+        "Directory Structure 0 hr 15 min",
+        "Log Files and Container Logs",
+        "Log Files 0 hr 5 min",
+        "HTTP and Container Logs 0 hr 15 min",
+        "Start, Stop, and Restart an Atom",
+        "Start, Stop and Restart Atom 0 hr 5 min",
+        "Restart from the Platform 0 hr 5 min",
+        "Start, Stop and Restart from Services 0 hr 10 min",
+        "Changing an Atom's Default Settings",
+        "Change the Atom's Default Settings 0 hr 5 min",
+        "Purging",
+        "Purging 0 hr 10 min",
+        "Release Control/Managing Local Runtimes",
+        "Release Control 0 hr 10 min",
+        "Manage Local Runtimes 0 hr 10 min",
+        "Install JVisualVM 0 hr 10 min",
+        "Atom Management and Messaging",
+        "Shared Web Server 0 hr 15 min",
+        "Shared Queue Server 0 hr 10 min",
+        "Advanced User Security (SSO)",
+        "SSO 0 hr 5 min",
+        "Uninstall Local Atom",
+        "Uninstall an Atom 0 hr 5 min",
+        "Next Steps",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Associate Administration",
+    "description": "Are you ready to become a Boomi administrator? Learn the essential skills for user management, managing processes, understanding extensions, and more.",
+    "duration": "5 hr 7 min",
+    "link": "https://train.boomi.com/associate-administration",
+    "details": {
+      "paragraphs": [
+        "Begin your journey as a Boomi Administrator with this hands-on course! Gain practical experience managing users, licenses, packaging, deployment, and scheduling processes. You'll also learn to navigate log files and configure alerts. Finally, you learn to use extensions and track documents.",
+        "Objectives\nBy the end of this course, learners will be able to:",
+        "Recommended Prerequisites \nGetting Started with the Boomi Platform\nIntegration Essentials",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from those in the Boomi platform."
+      ],
+      "lists": [
+        "Compare the Runtime Options",
+        "Create and administer users in the User Management tool",
+        "Package and Deploy a Process",
+        "Assess various licensing options and classes",
+        "Analyze the process reporting output",
+        "Create a schedule to run a process regularly",
+        "Analyze the Dashboards to view recent account activity",
+        "Construct email alerts",
+        "Determine when you can use extensions to enhance your integrations",
+        "Create extensions in multiple processes and access your results",
+        "Create, add, and view tracked fields",
+        "Materials",
+        "How to Rename Your Runtime and Atom Cloud 0 hr 2 min",
+        "Runtime Options and User Management 0 hr 45 min",
+        "Packaging and Deployment 0 hr 45 min",
+        "Process Reporting 1 hr 15 min",
+        "Working with the Dashboard and Email Alerts 0 hr 50 min",
+        "Utilizing Extensions 0 hr 50 min",
+        "Document Tracking 0 hr 40 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Associate Runtime Architect Certification",
+    "description": "Prove your competence with the Associate Runtime Architect Certification. This certification will cover content from Foundations, Optimizing Performance, and Build to Scale.",
+    "duration": "1 hr 0 min",
+    "link": "https://train.boomi.com/associate-runtime-architect-certification",
+    "details": {
+      "paragraphs": [
+        "This certification exam is for learners who have finished the required courses and are interested in earning the certification. This exam verifies an understanding of foundational knowledge and skills presented in the associated course.",
+        "Highlights:",
+        "For more information, check the Certification Overview.",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "The exam is open-book and open-platform.",
+        "There is no time limit for completing the certification exam.",
+        "The certification exam contains multiple-choice and multiple-response questions.",
+        "Some certification exams include a multiple-choice practical section requiring you to apply concepts in the Boomi platform to determine the correct answers.",
+        "Certification Exam and Assessment Exam Information",
+        "General Knowledge 1 hr 0 min",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Associate Runtime Architect Path",
+    "description": "Earn your Associate Runtime Architect certification!",
+    "duration": "9 Courses",
+    "link": "https://train.boomi.com/path/associate-runtime-architect",
+    "details": {
+      "paragraphs": [],
+      "lists": [
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "AS2 for EDI",
+    "description": "Want to learn more about AS2 protocols, including troubleshooting techniques? This course is for you!",
+    "duration": "1 hr 0 min",
+    "link": "https://train.boomi.com/as2-for-edi",
+    "details": {
+      "paragraphs": [
+        "The course explores the AS2 (Applicability Statement 2) protocol and how to use it in the Boomi Enterprise Platform. Participants learn how public and private key certificates function within the AS2 framework. This training will help learners configure AS2 connections between trading partners. A significant portion of the course covers troubleshooting scenarios, where participants will learn to identify, interpret, and resolve common AS2 errors.",
+        "Objectives",
+        "Recommended Prerequisites\nUsers should have completed the Associate EDI for X12 course or equivalent work experience.",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Define AS2 and explain its role in secure electronic data interchange",
+        "Describe the function of public and private key certificates in AS2 communications",
+        "Outline the process of setting up an AS2 connection between trading partners",
+        "Identify common AS2 error messages and their potential causes",
+        "Demonstrate troubleshooting techniques for resolving AS2 connectivity and transmission issues",
+        "AS2 for EDI 1 hr 0 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Associate DataHub Certification",
+    "description": "Earn this certification to validate your Associate DataHub knowledge and skills. Demonstrate you can manage data with DataHub.",
+    "duration": "1 hr 0 min",
+    "link": "https://train.boomi.com/associate-datahub-certification",
+    "details": {
+      "paragraphs": [
+        "This certification exam is for learners who have finished the required course and are interested in earning the certification. This exam verifies an understanding of foundational knowledge and skills presented in the associated course.",
+        "*Master Data Hub Essentials course content is covered in the exam, but is not a prerequisite for the exam.",
+        "*** The Database Connector was renamed from \"Database\" to \"Database (Legacy)\" during the November release. We are currently updating our courses to reflect this change. Thank you for your patience. ***",
+        "Highlights:",
+        "For more information, check the Certification Overview.",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "The exam is open-book and open-platform.",
+        "There is no time limit for completing the certification exam.",
+        "The certification exam contains multiple-choice and multiple-response questions.",
+        "Some certification exams include a multiple-choice practical section requiring you to apply concepts in the Boomi Platform to determine the correct answers.",
+        "Certification Exam and Assessment Exam Information",
+        "General Knowledge 1 hr 0 min",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Associate DataHub",
+    "description": "Are you looking to build your first Boomi DataHub solution? Take this course to gain the needed skills and knowledge.",
+    "duration": "3 hr 57 min",
+    "link": "https://train.boomi.com/associate-datahub",
+    "details": {
+      "paragraphs": [
+        "This course is geared for Boomi users who are familiar with data management concepts, and looking to build their first Boomi DataHub solution. It covers the foundational knowledge needed to implement data management with DataHub. You will learn how to set up a basic solution in order to synchronize and enrich trusted data across all systems within your organization. The course activities provide practice in modeling a data domain; configuring model structure, sources, and rules; deploying your model to a repository; using the Boomi DataHub connector to synchronize data across sources; and managing data quality through reporting, quarantine, and filter functions.",
+        "Note: This course covers the latest Boomi DataHub connector. If you are using the “Boomi Master Data Hub (Legacy)” connector, it will not match the content in this course.",
+        "Objectives",
+        "There are five sections of this course, presented in the recommended order of completion. You may access the content in the order that supports your learning. However, the activities will only work if completed in the order presented. Please also note the course activities build on those completed in Integration Essentials. Please complete Integration Essentials first to prepare for this course’s activities.\n\nRecommended Prerequisites\nGetting Started with the Boomi Platform\nIntegration Essentials\nDataHub Essentials",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Outline a DataHub solution to address a business use case.",
+        "Define a model of the data and parameters that will be loaded into DataHub.",
+        "Deploy a published model to a Hub repository.",
+        "Synchronize golden records across sources using the DataHub and Integration services together.",
+        "Steward data quality using DataHub's reporting, quarantine, and filter functions.",
+        "Materials",
+        "How to Rename Your Runtime and Atom Cloud 0 hr 2 min",
+        "Getting Started with DataHub 0 hr 20 min",
+        "Model - Define and Deploy 1 hr 20 min",
+        "Synchronize 1 hr 20 min",
+        "Steward 0 hr 45 min",
+        "Additional Resources 0 hr 10 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Associate Integration Architect",
+    "description": "Want to improve process and application architecture? Discover the keys to successful and sustainable development environments.",
+    "duration": "4 hr 2 min",
+    "link": "https://train.boomi.com/associate-integration-architect",
+    "details": {
+      "paragraphs": [
+        "Welcome to Associate Integration Architect (formerly Development and Application Architecture). This series of topic-based sections introduces the concepts and functionalities involved with designing and developing a Boomi platform environment. Before taking this course, we strongly recommended that you complete the Associate Integration Developer and Professional Integration Developer OR Associate Administrator courses.",
+        "Objectives",
+        "Recommended Prerequisites\nIntegration Essentials\nAssociate Integration Developer\nProfessional Integration Developer\nAssociate Administration",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Organize your component folder structure",
+        "Identify and write well-thought-out naming conventions",
+        "Differentiate between static and extendable values within a Boomi process",
+        "Configure a Process Route component to direct data to the appropriate subprocess as outlined in a scenario with multiple data types, which require different processing",
+        "Analyze a given integration process and identify potential bottlenecks where Document Caching could be used to improve performance",
+        "Evaluate the trade-offs between using separate processes versus a single process with a Process Route for handling multiple data types, and justify your choice",
+        "Explain the difference between one-way and two-way processing strategies, and provide a scenario where each would be most appropriate",
+        "Compare and contrast the \"Extract by Flag Field Value\" and \"Extract by Last Modified Date\" strategies for one-way processing, and analyze the trade-offs of each",
+        "Evaluate a given migration plan from an existing middleware platform to the Boomi platform and propose improvements based on best practices for grouping interfaces and implementing technical patterns",
+        "Explain how Boomi's capabilities support the development and deployment of Microservices",
+        "Apply Boomi's recommended development practices, including the use of subprocesses, to design scalable and maintainable Microservices within the Boomi platform",
+        "Materials",
+        "How to Rename Your Runtime and Atom Cloud 0 hr 2 min",
+        "Account Operation and Management 1 hr 0 min",
+        "Process Design Considerations 1 hr 0 min",
+        "Design and Development Patterns 1 hr 0 min",
+        "Development Topics 1 hr 0 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Associate Integration Architect Certification",
+    "description": "Earn this certificate to prove you have the skills to design successful and sustainable development environments.",
+    "duration": "1 hr 0 min",
+    "link": "https://train.boomi.com/associate-integration-architect-certification",
+    "details": {
+      "paragraphs": [
+        "This Certification Exam is for learners who have finished the required course and are interested in earning the Certification. This exam verifies an understanding of foundational knowledge and skills presented in the associated course. (This Certification was formerly known as the Development and Application Architecture Certification).",
+        "Highlights:",
+        "For more information, check the Certification Overview.\n\nThe Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "The exam is open-book and open-platform.",
+        "There is no time limit for completing the certification exam.",
+        "The certification exam contains multiple-choice and multiple-response questions.",
+        "Some certification exams include a multiple-choice practical section requiring you to apply concepts in the Boomi platform to determine the correct answers.",
+        "Certification Exam and Assessment Exam Information",
+        "General Knowledge 1 hr 0 min",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "API Management Recommended Practices",
+    "description": "This course has recommended practices when setting up an API Management solution, including cloud architecture, policies, metrics and Gateway configuration.",
+    "duration": "0 hr 40 min",
+    "link": "https://train.boomi.com/api-management-recommended-practices",
+    "details": {
+      "paragraphs": [
+        "This course is part of a series of topic-based training content. The scope of this course is not covered in the Professional API Design or Professional API Management courses. We will present advanced API Management concepts to help you develop a more robust and secure API Management solution. Topics like Gateway configuration, API Management Architecture, and Error Handling techniques are covered.\n\nObjectives",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Learn Integration Process-related recommendations",
+        "Understand Gateway configuration recommendations",
+        "Understand API Versioning",
+        "Learn the API Design Laws",
+        "Understand API Management Architecture",
+        "Understand the use of API Policies and API Metrics",
+        "Apply error handling techniques in API Management\n\nRecommended Prerequisites\nProfessional API Design\nProfessional API Management",
+        "API Management Recommended Practices 0 hr 40 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Architecture: Introduction to Runtime Options",
+    "description": "Want to learn about Boomi Runtimes? Get to know the options and see if you can pick the best runtime for each need.",
+    "duration": "0 hr 30 min",
+    "link": "https://train.boomi.com/architecture-introduction-to-runtime-options",
+    "details": {
+      "paragraphs": [
+        "In this short course, you will learn to compare the different Runtime Options available for developing and deploying Boomi Integration Processes. In the first section, you will discover the benefits and use cases for each of the primary types of runtimes and clouds. In the second section, you will evaluate the case priorities and select the best fit for each scenario.",
+        "Objectives",
+        "Recommended Prerequisites\nGetting Started with the Boomi Platform\nIntegration Essentials",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Identify the advantages and limitations of different Boomi Runtimes.",
+        "Evaluate Runtime selections based on project priorities.",
+        "Architecture: Introduction to Runtime Options 0 hr 30 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Associate Integration Developer Certification",
+    "description": "Are you ready to advance your developer skills and prove your expertise? Consider the Associate Developer Certification. This certification will recognize you as a skilled and knowledgeable Boomi developer.",
+    "duration": "2 hr 0 min",
+    "link": "https://train.boomi.com/associate-integration-developer-certification",
+    "details": {
+      "paragraphs": [
+        "This certification exam is for learners who have finished the required course and are interested in earning the certification. It verifies an understanding of the foundational knowledge and skills presented in the associated course.",
+        "*** The Database Connector was renamed from \"Database\" to \"Database (Legacy)\" during the November release. We are currently updating our courses to reflect this change. Thank you for your patience. ***",
+        "Highlights:",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from those in the Boomi platform."
+      ],
+      "lists": [
+        "The exam is open-book and open-platform.",
+        "There is no time limit for completing the certification exam.",
+        "The certification exam contains multiple-choice and multiple-response questions.",
+        "Some certification exams include a multiple-choice practical section requiring you to apply concepts in the Boomi platform to determine the correct answers.",
+        "For more information, check the Certification Overview below.",
+        "Certification Exam and Assessment Exam Information",
+        "Exam Attempt Limits and Lockout",
+        "General Knowledge 1 hr 0 min",
+        "Practical 1 hr 0 min",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "API Control Plane",
+    "description": "Do you have API Sprawl or Zombie APIs? The Boomi API Control Plane course will teach you how to resolve these issues and allows you implement a secure, Federated API Management with Governance.",
+    "duration": "4 hr 2 min",
+    "link": "https://train.boomi.com/api-control-plane",
+    "details": {
+      "paragraphs": [
+        "In this course, you will explore how the Boomi API Control Plane acts as a central hub for designing, publishing, documenting, and managing APIs throughout their entire lifecycle. The target audience is API Management professionals with experience in API Design and Management. You will learn about API Governance, Security, Monitoring, and Versioning, ensuring that your APIs are not only productive but also secure and compliant with organizational standards.  You can tackle API sprawl — the unmanaged proliferation of APIs across an organization — and can implement a robust API Governance and increase the Security.",
+        "By the end of this course, you'll be equipped with the insights and expertise to configure the API Control Plane, register API Cloud Environments, discover APIs, create API Products, create Applications for API Subscriptions and visualize API traffic and usage via Dashboards.",
+        "Objectives",
+        "Recommended Prerequisites\nProfessional API Design\nProfessional API Management",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Assess how you can enhance API governance and security, by addressing API Sprawl with Federated API Management",
+        "Configure the Boomi API Control Plane to reflect your organization’s structure and requirements",
+        "Manage your API Control Plane using the API Administration Portal",
+        "Register and configure an Environment to monitor different API deployment systems",
+        "Inspect, verify, and test your API specification",
+        "Simply management by grouping your APIs into API Products.",
+        "Analyze and interact with the Governance Dashboard to monitor your Environments and APIs",
+        "Configure and design your Developer Portal to enable use of your deployed APIs",
+        "Effectively troubleshoot and apply recommended practices when using the API Control Plane",
+        "Materials",
+        "No Access to Activities For Now",
+        "How to Rename Your Runtime and Atom Cloud 0 hr 2 min",
+        "Overview of the API Control Plane 1 hr 0 min",
+        "Managing the API Control Plane 2 hr 0 min",
+        "Developer Portal and Troubleshooting 1 hr 0 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Audience Claims in JWT Authentication",
+    "description": "This course covers how to effectively use Audience Claims when implementing JWT Authentication.",
+    "duration": "1 hr 0 min",
+    "link": "https://train.boomi.com/audience-claims-in-jwt-authentication",
+    "details": {
+      "paragraphs": [
+        "This course is part of a series of topic-based training content. The scope of this course is not covered in the Professional API Design or Professional API Management courses. We will present advanced API Management concepts to help you develop a more robust and secure API solution. Topics like Obtaining the Aud Claim from an Identity Provider, adding the Aud Claim to an authentication source, and testing the Aud Claim are covered.",
+        "Objectives",
+        "Recommended Prerequisites\nProfessional API Design\nProfessional API Management",
+        "Required Tools",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Obtaining the Aud Claim from your Identity Provider (IdP)",
+        "Adding Aud Claim to your JWT Authentication Source",
+        "Testing the Aud Claim",
+        "Identifying other Identity Providers' Aud Claims",
+        "You need a Microsoft Windows or Linux computer with admin permission to install software.",
+        "It is required to download and install in your computer a REST client like Postman.",
+        "Audience Claims in JWT Authentication 1 hr 0 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "B2B/EDI Dashboard",
+    "description": "Are you a business user who needs to access EDI data in Boomi? This course shows the effectiveness of the Boomi B2B/EDI Dashboard, which gives you human-readable results.",
+    "duration": "0 hr 30 min",
+    "link": "https://train.boomi.com/b2b-edi-dashboard",
+    "details": {
+      "paragraphs": [
+        "Managing EDI workflows requires a well-coordinated team. Business analysts know the details of their products and services; IT analysts specialize in the software that supports the business data. Each team member needs tools to support their area of expertise. This course demonstrates the effectiveness of the Boomi B2B/EDI Dashboard, which gives you human-readable, faster responses to inquiries, better visibility into business trends, enhanced search and retrieve functionality, increased security, and real-time results. You will complete activities to reinforce your learning.",
+        "Objectives\nThis course helps you:",
+        "Recommended Prerequisites\nGetting Started with the Boomi Platform\nIntegration Essentials\nEDI Essentials",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Recognize how the B2B/EDI dashboard enhances business efficiency and productivity",
+        "Select B2B/EDI Dashboard options that fit your company’s needs",
+        "B2B/EDI Dashboard 0 hr 30 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "B2B/EDI Management Path",
+    "description": "Begin your journey to earning your B2B/EDI Management certification!",
+    "duration": "6 Courses",
+    "link": "https://train.boomi.com/path/b2b-edi-management",
+    "details": {
+      "paragraphs": [],
+      "lists": [
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Boomi for SAP Path",
+    "description": "Begin your Boomi for SAP journey!",
+    "duration": "4 Courses",
+    "link": "https://train.boomi.com/path/boomi-for-sap",
+    "details": {
+      "paragraphs": [],
+      "lists": [
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Consuming and Publishing SOAP Services",
+    "description": "Elevate your integration skills with SOAP and Boomi! Explore core SOAP concepts, create connectors, define web services, and troubleshoot effectively.",
+    "duration": "1 hr 2 min",
+    "link": "https://train.boomi.com/consuming-and-publishing-soap-services",
+    "details": {
+      "paragraphs": [
+        "This course gives you the knowledge to create SOAP-based integrations using Boomi. It introduces SOAP's core concepts, including message structure and protocol independence. It explores SOAP service and development on the Boomi platform. You will acquire practical experience creating SOAP connectors, defining web service operations, and resolving SOAP implementation issues.",
+        "Objectives",
+        "Recommended Prerequisites\nGetting Started with the Boomi Platform\nIntegration Essentials\nAssociate Integration Developer",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from those in the Boomi platform."
+      ],
+      "lists": [
+        "Apply the core SOAP concepts to create SOAP-based integrations using Boomi",
+        "Analyze a SOAP message structure to identify its components",
+        "Configure the Boomi SOAP client to consume a Web Services SOAP Client Connector",
+        "Evaluate the recommended practices for testing and debugging SOAP integrations in Boomi, including techniques for troubleshooting common issues and optimizing performance",
+        "Materials",
+        "How to Rename Your Runtime and Atom Cloud 0 hr 2 min",
+        "Consuming and Publishing SOAP Services 1 hr 0 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Cloud API Management",
+    "description": "Looking for a robust API Management solution? The Boomi API Cloud API Management course will guide you in enhancing your API Management, boosting security, and implementing effective API governance.",
+    "duration": "6 hr 2 min",
+    "link": "https://train.boomi.com/cloud-api-management",
+    "details": {
+      "paragraphs": [
+        "In this course, you will explore how Boomi API Cloud API Management can help you develop a robust and secure API Management solution. The target audience is API Management professionals with experience in the field. You will learn about API Traffic Management, how to create a customized Developer Portal, and how to implement Governance and enhance the Security of your APIs. You will also test sample APIs and learn how to track and monitor API Traffic and usage via Reports and Dashboards.",
+        "Objectives",
+        "Recommended Prerequisites \nProfessional API Design",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Evaluate how an API Management solution can help you establish API Governance, Security, and a robust Developer Portal for API Developers' consumption",
+        "Navigate the different Cloud API Management screens and functionalities from the perspectives of an Administrator or an API Developer",
+        "Set up Organizations, Portal Access Groups, and Developer Portal prerequisites as the foundation of your Cloud API Management solution",
+        "Create, configure, and manage API Definitions by connecting to backend APIs",
+        "Design and create Packages that will group the different API Definitions for Subscription",
+        "Create and configure Plans that govern consumption of Packages and APIs",
+        "Create, configure, and test the Interactive Documentation available through the Swagger feature",
+        "Design and configure the user interface for the Developer Portal",
+        "Test the Developer Portal by accessing it as a Consumer API Developer",
+        "Call the API Definition using the APIs public URL",
+        "Effectively troubleshoot and apply optimized settings when using Cloud API Management",
+        "Materials",
+        "How to Rename Your Runtime and Atom Cloud 0 hr 2 min",
+        "Cloud API Management 6 hr 0 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Data Stewardship",
+    "description": "Take this course to learn the options, decision criteria, and workflows for managing quarantined records.",
+    "duration": "0 hr 25 min",
+    "link": "https://train.boomi.com/data-stewardship",
+    "details": {
+      "paragraphs": [
+        "This module provides a basic overview of the Data Stewardship tasks of resolving quarantined records, and focuses on addressing Matching, Merging, and Data Validation errors in DataHub.",
+        "Objectives",
+        "Recommended Prerequisites\nDataHub Essentials\nAssociate DataHub",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Navigate the quarantine area of the DataHub Stewardship tab",
+        "Analyze and resolve quarantined items related to matching",
+        "Merge duplicate records",
+        "Address data validation errors",
+        "Materials",
+        "Data Stewardship: Resolving Quarantined Records 0 hr 25 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Intro to Data Catalog and Preparation",
+    "description": "Take this course to get started using data catalog and preparation tools to realize your data's full value.",
+    "duration": "0 hr 45 min",
+    "link": "https://train.boomi.com/intro-to-boomi-data-catalog-and-preparation",
+    "details": {
+      "paragraphs": [
+        "This course covers the value of Data Catalog and Preparation to your business, including detailed coverage of its major offerings. It also covers considerations and available tools for data security and governance.",
+        "Objectives",
+        "Boomi no longer offers customer instances of Data Catalog and Preparation (DCP), and is now building the tool's capabilities directly into the Boomi platform.",
+        "Customers with an existing contract including DCP product may use all of the included DCP features through the end of their contract, and should sign into their company's provisioned instance of the DCP service. Please contact your company's DCP instance administrator with access questions.",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Explain the value proposition of Data Catalog and Preparation",
+        "Use Data Catalog features to profile and analyze your data",
+        "Use Data Preparation features to interact with and develop your data",
+        "Enable data security and governance through user roles, permissions, restrictions, and dashboards",
+        "Materials",
+        "Product Overview 0 hr 5 min",
+        "Catalog and Discovery 0 hr 10 min",
+        "Catalog and Discovery Demo",
+        "Data Prep 0 hr 5 min",
+        "Data Prep Demo 0 hr 15 min",
+        "Personas, Security, and General Navigation 0 hr 10 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Data Catalog and Preparation Administrator",
+    "description": "Take this course to learn key DCP administration tasks such as environment setup, connectivity, and security.",
+    "duration": "1 hr 40 min",
+    "link": "https://train.boomi.com/boomi-data-catalog-and-preparation-administrator",
+    "details": {
+      "paragraphs": [
+        "This course provides administrators the information they need to manage data, accounts and the behavior of DCP. It covers essential information for navigation; system setup and integration; data connectivity, access, and types; as well as troubleshooting resources and tips.",
+        "Objectives",
+        "Boomi no longer offers customer instances of Data Catalog and Preparation (DCP), and is now building the tool's capabilities directly into the Boomi platform.",
+        "Customers with an existing contract including DCP product may use all of the included DCP features through the end of their contract, and should sign into their company's provisioned instance of the DCP service. Please contact your company's DCP instance administrator with access questions.",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Navigate key administration areas of the DCP system",
+        "Identify and set up required DCP identity, communication, and workflow integrations",
+        "Implement settings to define how your DCP system will behave",
+        "Establish connectivity with data stores, sources, and sets",
+        "Define data access levels for specified roles, users, and user groups",
+        "Identify, create, and apply protective rules to data types",
+        "Resolve issues using knowledge of system architecture, notifications, log files, and community resources",
+        "Materials",
+        "Navigation, Integration, and Settings Overview: Navigation 0 hr 5 min",
+        "Demo: Navigation 0 hr 5 min",
+        "Integration 0 hr 5 min",
+        "Demo: Integration 0 hr 5 min",
+        "Settings 0 hr 5 min",
+        "Demo: Settings 0 hr 5 min",
+        "Connectivity, Access, Data Types, and Troubleshooting Overview 0 hr 5 min",
+        "Demo: Connectivity 0 hr 10 min",
+        "Access 0 hr 5 min",
+        "Demo: Access 0 hr 10 min",
+        "Data Types 0 hr 5 min",
+        "Demo: Data Types 0 hr 15 min",
+        "Troubleshooting 0 hr 5 min",
+        "Demo: Troubleshooting 0 hr 10 min",
+        "Connectivity, Access, Data Types, and Troubleshooting Wrap-Up 0 hr 5 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "DCP Data Consumer Roles",
+    "description": "Take this course to become skilled in data consumer tasks such as data search, tracking, and preparation.",
+    "duration": "0 hr 45 min",
+    "link": "https://train.boomi.com/dcp-data-consumer-roles",
+    "details": {
+      "paragraphs": [
+        "This course covers the general platform knowledge that data consumers need and an in-depth look at data consumer processes. It includes guidance on data search tools and practices; data exploration, definition, and tracking; and data preparation and collaboration features.\n\nObjectives",
+        "Boomi no longer offers customer instances of Data Catalog and Preparation (DCP), and is now building the tool's capabilities directly into the Boomi platform.",
+        "Customers with an existing contract including DCP product may use all of the included DCP features through the end of their contract, and should sign into their company's provisioned instance of the DCP service. Please contact your company's DCP instance administrator with access questions."
+      ],
+      "lists": [
+        "Use the variety of search tools available to find targeted data",
+        "Navigate and interpret data sets and their supporting resources",
+        "Set up jobs to prepare data into useful formats for your goals",
+        "Engage with collaboration features to enhance data’s context and visibility\n\nRecommended Prerequisites\nIntro to Boomi Data Catalog and Preparation\n\nBoomi no longer offers customer instances of Data Catalog and Preparation (DCP), and is now building the tool's capabilities directly into the Boomi platform.\nCustomers with an existing contract including DCP product may use all of the included DCP features through the end of their contract, and should sign into their company's provisioned instance of the DCP service. Please contact your company's DCP instance administrator with access questions.\nThe Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform.",
+        "DCP Data Consumer - Search and Discovery 0 hr 15 min",
+        "DCP Data Consumer - Data Set Explorer 0 hr 15 min",
+        "DCP Data Consumer - Data Preparation and Collaboration 0 hr 15 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "DCP Data Curation Roles",
+    "description": "Take this course to learn curation skills that enable you to discover, communicate, and collaborate on valued data.",
+    "duration": "1 hr 30 min",
+    "link": "https://train.boomi.com/dcp-data-curation-roles",
+    "details": {
+      "paragraphs": [
+        "This course covers the general platform knowledge that data curators need, and then moves to an in-depth look at the data curation process. It defines the value of data curation, and guides the learner through the range of DCP tools and practices used to enhance and enrich data.",
+        "Objectives",
+        "Recommended Prerequisites\nIntro to Boomi Data Catalog and Preparation\nBoomi DCP Administrator",
+        "Boomi no longer offers customer instances of Data Catalog and Preparation (DCP), and is now building the tool's capabilities directly into the Boomi platform.",
+        "Customers with an existing contract including DCP product may use all of the included DCP features through the end of their contract, and should sign into their company's provisioned instance of the DCP service. Please contact your company's DCP instance administrator with access questions.",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Navigate the essential resources and activities of the DCP interface",
+        "Identify and use data stores, data sources, and data sets",
+        "Classify and protect sensitive data",
+        "Explain the roles and access controls available in DCP",
+        "Employ a recommended data curation process",
+        "Enrich data sets with curation features such as data set properties and data types",
+        "Add context using data dictionary and business glossary features",
+        "Enhance data understanding with DCP’s statistical, lineage, and relational mapping tools",
+        "Materials",
+        "Data Curation: Challenge One 0 hr 45 min",
+        "Data Curation: Challenge Two 0 hr 45 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Data Catalog and Prep Path",
+    "description": "Begin your Data Catalog and Prep journey!",
+    "duration": "8 Courses",
+    "link": "https://train.boomi.com/path/data-catalog-and-prep",
+    "details": {
+      "paragraphs": [],
+      "lists": [
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Data Catalog and Preparation Introduction Assessment",
+    "description": "Validate your Boomi DCP Introduction knowledge with this assessment. It covers key data catalog and preparation concepts and tasks.",
+    "duration": "1 hr 0 min",
+    "link": "https://train.boomi.com/boomi-data-catalog-and-preparation-introduction-assessment",
+    "details": {
+      "paragraphs": [
+        "This assessment validates knowledge of key data catalog and preparation concepts, such as definitions of the data catalog and preparation offerings, the major data catalog steps and features, and the functions available for streamlined data preparation and enhancement.",
+        "Boomi no longer offers customer instances of Data Catalog and Preparation (DCP), and is now building the tool's capabilities directly into the Boomi platform.",
+        "Customers with an existing contract including DCP product may use all of the included DCP features through the end of their contract, and should sign into their company's provisioned instance of the DCP service. Please contact your company's DCP instance administrator with access questions."
+      ],
+      "lists": [
+        "Certification Exam and Assessment Exam Information",
+        "General Knowledge 1 hr 0 min",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Data Catalog and Preparation Administrator Assessment",
+    "description": "Validate your DCP Administrator knowledge with this assessment. It covers tasks relating to environment setup, connectivity, security, and troubleshooting.",
+    "duration": "1 hr 0 min",
+    "link": "https://train.boomi.com/boomi-data-catalog-and-preparation-administrator-assessment",
+    "details": {
+      "paragraphs": [
+        "This assessment validates knowledge of the key data catalog administration tasks, such as implementing system settings and integrations, establishing data connectivity and access, and using available tools and resources for troubleshooting.",
+        "Boomi no longer offers customer instances of Data Catalog and Preparation (DCP), and is now building the tool's capabilities directly into the Boomi platform.",
+        "Customers with an existing contract including DCP product may use all of the included DCP features through the end of their contract, and should sign into their company's provisioned instance of the DCP service. Please contact your company's DCP instance administrator with access questions."
+      ],
+      "lists": [
+        "Certification Exam and Assessment Exam Information",
+        "General Knowledge 1 hr 0 min",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Data Catalog and Preparation Consumer Assessment",
+    "description": "Validate your DCP data consumer knowledge with this assessment. It covers key tasks relating to data search, exploration, tracking, preparation, and collaboration.",
+    "duration": "1 hr 0 min",
+    "link": "https://train.boomi.com/boomi-data-catalog-and-preparation-consumer-assessment",
+    "details": {
+      "paragraphs": [
+        "This assessment validates knowledge of key data consumer tasks, such as using search tools to discover data, exploring data sets and their supporting resources, and using built-in features to further prepare and collaborate around data.",
+        "Boomi no longer offers customer instances of Data Catalog and Preparation (DCP), and is now building the tool's capabilities directly into the Boomi platform.",
+        "Customers with an existing contract including DCP product may use all of the included DCP features through the end of their contract, and should sign into their company's provisioned instance of the DCP service. Please contact your company's DCP instance administrator with access questions."
+      ],
+      "lists": [
+        "Certification Exam and Assessment Exam Information",
+        "General Knowledge 1 hr 0 min",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Data Catalog and Preparation Curator Assessment",
+    "description": "Validate your DCP data curation knowledge with this assessment. It covers key tasks relating to interacting with and enhancing the value of data.",
+    "duration": "0 hr 45 min",
+    "link": "https://train.boomi.com/boomi-data-catalog-and-preparation-curator-assessment",
+    "details": {
+      "paragraphs": [
+        "The assessment validates knowledge of key data curation tasks, such as navigating the catalog interface, finding, analyzing, and interacting with valued data; and using metadata and collaboration features to make the most of your data.",
+        "Boomi no longer offers customer instances of Data Catalog and Preparation (DCP), and is now building the tool's capabilities directly into the Boomi platform.",
+        "Customers with an existing contract including DCP product may use all of the included DCP features through the end of their contract, and should sign into their company's provisioned instance of the DCP service. Please contact your company's DCP instance administrator with access questions."
+      ],
+      "lists": [
+        "Certification Exam and Assessment Exam Information",
+        "General Knowledge 0 hr 45 min",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "DataHub: Define Your Data Strategy",
+    "description": "Is your data quality helping or hurting your business? In this course you’ll learn to lead the way to a data strategy that removes risk and drives growth.",
+    "duration": "2 hr 10 min",
+    "link": "https://train.boomi.com/datahub-define-your-data-strategy",
+    "details": {
+      "paragraphs": [
+        "This course guides a data management leader through the Boomi-recommended process for developing a data management strategy. If you are looking to advance your business toward better data that’s better aligned to your goals, this course is for you.",
+        "We will cover key steps such as:",
+        "For each topic covered, exercises are provided to answer critical questions for your company’s data management strategy; by completing all exercises, you will have drafted a working data management strategy.",
+        "Objectives\nThis course helps you:",
+        "Recommended Prerequisites:\nThis course assumes that you have already achieved a foundational level of knowledge about Boomi DataHub. You can gain this knowledge by taking these courses:",
+        "Integration Essentials\nDataHub Essentials\nAssociate DataHub",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Identifying prioritized data domains",
+        "Profiling and documenting issues with existing data",
+        "Defining shared quality standards",
+        "Designing a data management architecture that activates data value goals",
+        "Explain the risks of doing data management without a plan",
+        "Identify data domains that drive strategic business value",
+        "Organize a data management process",
+        "Assess the sources, scope, and dimensions of existing domain data",
+        "Analyze the domain data’s quality level",
+        "Distinguish future data quality requirements from the current state",
+        "Define indicators that can be used to manage data quality",
+        "Recommend a domain data management design",
+        "Complete a data strategy document to guide your MDH implementation",
+        "Materials",
+        "Data Management Scenario 0 hr 20 min",
+        "Define the Current State 0 hr 45 min",
+        "Prioritize Data Quality 0 hr 35 min",
+        "Implement Your Data Strategy 0 hr 30 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "DataHub Essentials",
+    "description": "Are you looking to make better decisions with better data? This course explains key concepts to get started.",
+    "duration": "0 hr 35 min",
+    "link": "https://train.boomi.com/datahub-essentials",
+    "details": {
+      "paragraphs": [
+        "DataHub Essentials is designed to help answer questions about how data management can benefit you. You will see an example of how one team recognized a data management challenge, analyzed it, and designed a solution using Boomi DataHub. Along the way, we will cover key concepts to help reach your business goals with better data. Let's get started!",
+        "Objectives",
+        "Recommended Prerequisites\nGetting Started With the Boomi Platform\nIntegration Essentials",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Explain the impact of disorganized data",
+        "Identify the criteria of high-quality data",
+        "Describe the concept of data management",
+        "Define master data",
+        "Identify the roles of data management",
+        "Define a model",
+        "Define a golden record",
+        "Summarize how DataHub solves for complexity issues",
+        "Outline the tasks and benefits of data stewardship",
+        "Describe the job of the DataHub solution",
+        "Name the four steps of the data management lifecycle",
+        "DataHub Essentials 0 hr 35 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "DataHub Path",
+    "description": "Begin your journey to data management expertise!",
+    "duration": "9 Courses",
+    "link": "https://train.boomi.com/path/datahub-path",
+    "details": {
+      "paragraphs": [],
+      "lists": [
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Data Governance: Securing Success",
+    "description": "Learn how to make data governance your competitive advantage in today’s data-driven marketplace. Explore DataHub features that prepare secure, high-quality data for AI adoption.",
+    "duration": "0 hr 30 min",
+    "link": "https://train.boomi.com/data-governance-securing-success",
+    "details": {
+      "paragraphs": [
+        "What would happen if you were to bet your next big initiative on the timeliness, accuracy, completeness, and security of your data today? This course shows how you can answer this question confidently. You’ll learn what data governance is, and why it matters more than ever when adopting AI. You’ll learn how you can use Boomi DataHub to ensure you meet your data security and quality governance goals. And through common success metrics and industry-specific examples, you’ll define your next steps toward scalable data excellence.",
+        "Objectives",
+        "Recommended Prerequisites\nGetting Started With the Boomi Platform",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Explain the business impact of poorly governed data",
+        "Continuously improve data value through relevant quality measures, analysis, and effective use in automation and AI solutions",
+        "Data Governance: Securing Success 0 hr 30 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Data Governance with DataHub Path",
+    "description": "Begin your journey to data governance expertise!",
+    "duration": "3 Courses",
+    "link": "https://train.boomi.com/path/data-governance-with-datahub",
+    "details": {
+      "paragraphs": [],
+      "lists": [
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Distributed Account Management",
+    "description": "Take your Boomi administration to the next level! Discover subaccount administration, process libraries, and integration packs.",
+    "duration": "4 hr 4 min",
+    "link": "https://train.boomi.com/distributed-account-management",
+    "details": {
+      "paragraphs": [
+        "This course provides the knowledge and tools to create and manage a parent/child account effectively. It covers Account Hierarchy and groups and how to create sub-accounts via the Partner Provisioning Portal and the Partner API. You will also learn about Advanced Security Settings, how to Publish to the Process Library, and how to create Integration Packs.",
+        "Objectives",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from those in the Boomi platform."
+      ],
+      "lists": [
+        "Account Hierarchy",
+        "Sub-Account Provisioning",
+        "Partner Provisioning Portal",
+        "Partner API",
+        "Account Groups",
+        "Advance Security",
+        "Process Library Integration Packs \n\nRecommended Prerequisites\nGetting Started with the Boomi Platform\nIntegration Essentials\nAssociate Administrator\nAssociate Administration Certification",
+        "Materials",
+        "How to Rename Your Runtime and Atom Cloud 0 hr 2 min",
+        "Introduction",
+        "Distributed Account Management: Introduction 1 hr 0 min",
+        "Account Hierarchy",
+        "Account Hierarchy 1 hr 0 min",
+        "Sub-account Provisioning",
+        "Sub-account Provisioning: Provisioning Portal 0 hr 5 min",
+        "Activity: Provisioning Portal 0 hr 10 min",
+        "Sub-account Provisioning: AtomSphere Partner API 0 hr 5 min",
+        "Activity: Partner API 0 hr 7 min",
+        "Account Groups",
+        "Account Groups 0 hr 5 min",
+        "Activity: Create an Account Group 0 hr 3 min",
+        "Advanced Security",
+        "Advanced Security Overview 0 hr 5 min",
+        "Advanced Security: Users, Roles, and Privileges 0 hr 5 min",
+        "Activity: Add a New User 0 hr 5 min",
+        "Activity: Modify a Users Role in the Account Group 0 hr 2 min",
+        "Lecture: Remove a User 0 hr 1 min",
+        "Advance Security: Default Roles and Privileges 0 hr 5 min",
+        "Custom Roles 0 hr 5 min",
+        "Activity: Create and Assign a Custom Role 0 hr 5 min",
+        "Advanced Security: Environment Roles 0 hr 5 min",
+        "Activity: Assign an Environment Role 0 hr 4 min",
+        "Process Library with Legacy Deployment",
+        "Packaged Component Workflow for Process Library and Integration Packs 0 hr 5 min",
+        "Process Library with Packaged Components 0 hr 5 min",
+        "Activity: Process Library 0 hr 9 min",
+        "Integration Packs with Legacy Deployment",
+        "Integration Packs: Define 0 hr 5 min",
+        "Integration Packs: Create 0 hr 5 min",
+        "Activity: Create the Integration Pack 0 hr 9 min",
+        "Integration Packs: Use 0 hr 3 min",
+        "Activity: Use the Integration Pack 0 hr 4 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Distributed Account Manager Path",
+    "description": "Begin your journey to earning your Distributed Account Manager certification!",
+    "duration": "4 Courses",
+    "link": "https://train.boomi.com/path/distributed-account-manager",
+    "details": {
+      "paragraphs": [],
+      "lists": [
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "EDI Essentials",
+    "description": "Want to learn how to get started with EDI in Boomi? This course introduces basic terms and demonstrates a business case.",
+    "duration": "0 hr 45 min",
+    "link": "https://train.boomi.com/edi-essentials",
+    "details": {
+      "paragraphs": [
+        "This course provides an introduction to Electronic Data Interchange. You'll see an example of how one business owner recognized an EDI challenge, and got assistance to analyze and design a solution using Boomi. No prior knowledge of EDI is required.",
+        "Objectives",
+        "Recommended Prerequisites\nGetting Started with the Boomi Platform",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Define key parts of EDI, including standards and specifications.",
+        "Identify trading partners and explain how they interact with each other.",
+        "Describe how to create an EDI profile in Boomi.",
+        "Identify resources for more information.",
+        "EDI Essentials 0 hr 45 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Enhanced API & Gateway Security",
+    "description": "Enhanced security measures aren’t just important; they are essential. Ignore them at your own risk. Ready to level up your defenses? This course can help.",
+    "duration": "0 hr 25 min",
+    "link": "https://train.boomi.com/enhanced-api-gateway-security",
+    "details": {
+      "paragraphs": [
+        "This course teaches you the importance of elevated security measures and the impact if these guidelines are not followed. The course also explains configuring CORS and Client Certificate Authentication via mTLS for your Gateway and APIs. This course is intended for API Managers and API Developers who want to learn how to create additional security layers to protect your API Solutions. Finally, you will test these implementations using a REST client like Postman.",
+        "Objectives",
+        "Recommended Prerequisites \nProfessional API Management",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Research the impact of weak API security measures and how CORS and mTLS can help",
+        "Assess the security robustness of your Boomi API Management solution",
+        "Select and configure the different CORS Configuration Headers",
+        "Configure Client Certificate Authentication for your Gateways using the mTLS protocol",
+        "Increase API-level protection of highly sensitive resources",
+        "Materials",
+        "Enhanced API & Gateway Security 0 hr 25 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Event Streams REST API",
+    "description": "Need to produce Event Messages faster? Try the Event Streams REST API. This course covers how to connect to the Broker EndPoint and submit using a POST Method.",
+    "duration": "1 hr 55 min",
+    "link": "https://train.boomi.com/event-streams-rest-api",
+    "details": {
+      "paragraphs": [
+        "Dive into the world of REST APIs and Event Streams with this comprehensive course designed to equip you with the necessary skills to effectively produce, verify, and consume messages. The target audience for this course includes Integration and Event Streams developers. This course will help you understand the foundational concepts and practical applications essential for leveraging the Event Streams REST API in modern integration scenarios. You will learn how the REST API facilitates communication between different applications and services over the web, study hands-on techniques for producing messages, verify and validate the integrity, format, and content of the messages produced, and finally, consume those messages.",
+        "Objectives",
+        "Recommended Prerequisites \nAssociate Event Streams",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Define an API and outline the role of the Event Streams API in message production for a Topic",
+        "Differentiate between the Event Streams API, Boomi Platform APIs, and Boomi API Management Deployed APIs",
+        "Create and design a Topic to receive messages from the REST API",
+        "Effectively prepare the Message Payload Data in its correct format and perform a call to the REST API using the POST method",
+        "Verify the Topic and Subscription Backlogs to track Message movement and inspect produced Messages for validity and format",
+        "Execute Message consumption via a Consumer Integration Process and check the Topic and Subscription to ensure successful Message consumption",
+        "Materials",
+        "Event Streams REST API 1 hr 55 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Event Streams Path",
+    "description": "Begin your journey to earning your Event Streams certification!",
+    "duration": "5 Courses",
+    "link": "https://train.boomi.com/path/event-streams",
+    "details": {
+      "paragraphs": [],
+      "lists": [
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Exploring the Database V2 Connector",
+    "description": "This course introduces the latest transaction actions, empowering you to integrate databases and maximize efficiency seamlessly.",
+    "duration": "0 hr 40 min",
+    "link": "https://train.boomi.com/exploring-the-database-v2-connector",
+    "details": {
+      "paragraphs": [
+        "This course will introduce the latest transaction actions, empowering you to integrate databases and maximize efficiency seamlessly. You'll learn how to establish connections, handle essential operations, and explore the enhanced capabilities that make the Database V2 connector a game-changer.",
+        "Objectives\nThis course helps you:",
+        "Recommended Prerequisites\nGetting Started with the Boomi Platform\nIntegration Essentials",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from those in the Boomi platform."
+      ],
+      "lists": [
+        "Explain the benefits of the Database V2 connector",
+        "Analyze the key differences between the Legacy and Database V2 connector",
+        "Demonstrate how to create Database V2 connections",
+        "Configure and utilize basic operations with the Database V2 connector",
+        "Ensure efficient and accurate database operations using the transaction processing feature of the Database V2 connector",
+        "Exploring the Database V2 Connector 0 hr 40 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Enhancing Security with Authentication",
+    "description": "Want to learn more about enhancing security in your flows? Learn what authentication is, when to use it in your flow, and how to use it alongside authorization to enhance security.",
+    "duration": "0 hr 45 min",
+    "link": "https://train.boomi.com/enhancing-security-with-authentication",
+    "details": {
+      "paragraphs": [
+        "In our Enhancing Security with Authentication course, you are learning what authentication is, when it's helpful to use in your flow, and how to use it alongside authorization to incorporate security into your flow. Plus, to help you retain all the knowledge you are gaining, you can test yourself with knowledge checks throughout. Finally, you gain hands-on experience using identity provider services in a flow by completing our step-by-step activity.",
+        "Objectives",
+        "Recommended Prerequisites\nGetting Started with the Boomi Platform\nAssociate Flow Essentials\nProfessional Flow Developer",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Understand authentication, authorization, and the similarities/differences between the two",
+        "Learn about authentication levels and how they can be used to restrict your flow",
+        "Apply swimlanes to restrict your flow to specific users or groups",
+        "Create a secure application using an Identity Provider",
+        "Enhancing Security with Authentication 0 hr 45 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Flow and Boomi Integration: Working Together",
+    "description": "Ready to tap into the full potential of Flow? Connect Flow with external systems using Boomi Integration.",
+    "duration": "0 hr 30 min",
+    "link": "https://train.boomi.com/flow-and-boomi-integration-working-together",
+    "details": {
+      "paragraphs": [
+        "In this course, you will learn how to use Flow with external services and learn about how Flow and Boomi Integration work together, including a review of the core components used. This is the first part of a series.",
+        "Objectives",
+        "Recommended Prerequisites\nGetting Started with the Boomi Platform\nIntegration Essentials\nProfessional Flow Developer",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Identify how to use Flow with external connectors",
+        "Explain when to use Boomi Integration with a Flow Connector",
+        "Explain the function of the Flow Services Server component",
+        "Flow and Boomi Integration: Working Together 0 hr 30 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Flow and Boomi Integration: Message Actions",
+    "description": "Are you seeking further understanding on how to connect your flows with external systems? Get Flow to talk to Integration with this Message Action course.",
+    "duration": "0 hr 30 min",
+    "link": "https://train.boomi.com/flow-and-boomi-integration-message-actions",
+    "details": {
+      "paragraphs": [
+        "In our Flow and Boomi Integration: Working Together course, you learned how to connect Flow with external systems using Boomi Integration. There are three different Integration methods between Flow and Integration: Message Action, Data Action, and File Resources. In this course, you will learn the Message Action Integration method.",
+        "Objectives",
+        "Recommended Prerequisites\nGetting Started with the Boomi Platform\nIntegration Essentials\nProfessional Flow Developer\nFlow and Boomi Integration: Working Together",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Message Actions in Action",
+        "Configuring profiles",
+        "Structuring the JSON profile",
+        "Boomi Always Delivers Useful Information",
+        "Configuring a Message map element",
+        "Flow & Boomi Integration: Message Actions 0 hr 30 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Flow Developer Path",
+    "description": "Begin your journey to earning your Flow Developer certification!",
+    "duration": "3 Courses",
+    "link": "https://train.boomi.com/path/flow-developer",
+    "details": {
+      "paragraphs": [],
+      "lists": [
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Getting Started with the Boomi Platform",
+    "description": "Are you looking to embark on an exciting Boomi journey? This course explores the world of Boomi services to discover how they can revolutionize your business solutions.",
+    "duration": "0 hr 30 min",
+    "link": "https://train.boomi.com/getting-started-with-the-boomi-platform",
+    "details": {
+      "paragraphs": [
+        "Curriculum",
+        "About this course"
+      ],
+      "lists": [
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Introduction to Task Automation",
+    "description": "Boomi Task Automation automates repetitive tasks with no-code for IT and business professionals, freeing up time for you to achieve more results with less work.",
+    "duration": "0 hr 30 min",
+    "link": "https://train.boomi.com/introduction-to-task-automation",
+    "details": {
+      "paragraphs": [
+        "Task Automation is a no-code platform where you can build and activate your chosen automated business processes with just a few steps. It is an automation platform that anyone can use to simplify everyday tasks. Task Automation is designed to improve individual productivity and allows you to monitor and track your tasks from one platform.",
+        "Objectives",
+        "Recommended Prerequisites\nGetting Started with the Boomi Platform",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Differentiate the functions and operations of Tasks, Connections, and Notifications",
+        "Analyze real-world scenarios and determine how Task Automation can be leveraged to address your specific needs or business processes",
+        "Explain how to utilize Task Automation's key features to create a new task",
+        "Introduction to Task Automation 0 hr 30 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Introducing Boomi AI Agents",
+    "description": "Discover the power of Boomi AI Agents! Learn about Boomi AI Agents, Partner Agents, and User-Created Agents. Unlock the potential of AI in your operations with our quick, engaging intro course.",
+    "duration": "0 hr 15 min",
+    "link": "https://train.boomi.com/introducing-boomi-ai-agents",
+    "details": {
+      "paragraphs": [
+        "Boomi has created AI Agents available to you in the Boomi Enterprise Platform. By using AI agents, you can automate routine tasks, enhance decision-making, improve customer service, and streamline business processes. This course covers the basics of AI Agents, what types of agents are in the Boomi platform, and where to find them.",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi Platform."
+      ],
+      "lists": [
+        "Introducing Boomi AI Agents 0 hr 15 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Installing and Configuring Boomi for SAP",
+    "description": "Integrate SAP faster with Boomi for SAP! This course covers the information you need to configure the environment and install Boomi for SAP.",
+    "duration": "0 hr 47 min",
+    "link": "https://train.boomi.com/installing-and-configuring-boomi-for-sap",
+    "details": {
+      "paragraphs": [
+        "Would you like to learn how to accelerate SAP integration with an intuitive web-based user interface and learn how to implement Event-Driven architecture for SAP? This course explores the architecture, benefits, installation, and setup of Boomi for SAP. To get the most out of this course, you should be familiar with SAP and the Boomi Platform.",
+        "Objectives",
+        "Recommended Prerequisites\nIntegration Essentials\nAssociate Integration Developer\nProfessional Integration Developer",
+        "The Boomi Enterprise  Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi Platform."
+      ],
+      "lists": [
+        "Explain Boomi for SAP, including its core components, features, and functionality",
+        "Install Boomi for SAP add-on on your SAP system and test its connectivity",
+        "Set up RFC Destinations and test their connectivity to Boomi",
+        "Define the recommended roles and users for Boomi for SAP",
+        "How to Rename Your Runtime and Atom Cloud 0 hr 2 min",
+        "Installing and Configuring Boomi for SAP 0 hr 45 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Integration Essentials",
+    "description": "Do you want to create your first process but need help knowing where to begin? Enroll in this engaging introductory course and get hands-on experience.",
+    "duration": "3 hr 5 min",
+    "link": "https://train.boomi.com/integration-essentials",
+    "details": {
+      "paragraphs": [
+        "Curriculum",
+        "About this course"
+      ],
+      "lists": [
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Installing and Configuring Boomi for SAP Assessment",
+    "description": "Are you seeking to validate your skills in Boomi for SAP installation and configuration? This assessment is the perfect opportunity to prove your expertise and stand out in the field.",
+    "duration": "1 hr 0 min",
+    "link": "https://train.boomi.com/installing-and-configuring-boomi-for-sap-assessment",
+    "details": {
+      "paragraphs": [
+        "This assessment validates knowledge of installing and configuring key Boomi for SAP concepts."
+      ],
+      "lists": [
+        "Certification Exam and Assessment Exam Information",
+        "General Knowledge 1 hr 0 min",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Improving Security with API Policies",
+    "description": "Want to leverage API Policies in your API solution? This Advanced APIM course allows you to configure different policies like JSON Validation, Cache, URL Rewriting, and IP Filtering.",
+    "duration": "1 hr 0 min",
+    "link": "https://train.boomi.com/improving-security-with-api-policies",
+    "details": {
+      "paragraphs": [
+        "This course focuses on the API Policy Manager that allows you to configure reusable policies and apply them to APIs for execution on the API Gateway. The policies help you customize how gateway transactions are processed on the request and response. This course is intended for API owners and API Product Managers who want to learn how to create and apply Policy Rules. These policies provide additional threat protection, access control, traffic management, or mediation before or after the request is sent to the API.\n\nObjectives",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Define an API Policy to tailor the security and control you have over your API calls",
+        "Identify the API Explorer and API Policy page interface elements that allow you to manage custom policies",
+        "Create a JSON Validation Policy Rule to increase control over JSON data quality",
+        "Explore API Rule actions to support API Policy implementation",
+        "Create a Cache Policy Rule to save time and avoid unnecessary traffic",
+        "Enhance API security by creating an IP Filtering Policy Rule",
+        "Complete additional API Policy Rule actions for improved control over your API Policies\n\nRecommended Prerequisites\nProfessional API Management\nUsing GraphQL to Configure Deployed APIs",
+        "Materials",
+        "Improving Security with API Policies 1 hr 0 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Integration Developer: Implementation Readiness",
+    "description": "Feeling confident enough to start developing your own integration process? Get started with the Integration Developer: Implementation Readiness course to start developing your own integration process.",
+    "duration": "2 hr 17 min",
+    "link": "https://train.boomi.com/integration-developer-implementation-readiness",
+    "details": {
+      "paragraphs": [
+        "Welcome to the Integration Developer: Implementation Readiness course. This course is aimed at developers ready to build their own integration process. It provides a systematic approach to the entire integration development lifecycle, offering practical guidance and a comprehensive example to showcase effective integration implementation methods. If you are a developer looking to enhance your skills, this course is designed to equip you with the essential knowledge and tools needed for successful project implementation.",
+        "Objectives",
+        "Recommended Prerequisites\nGetting Started with the Boomi Platform\nIntegration Essentials\nAssociate Integration Developer\nProfessional Integration Developer",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Discover and document requirements for your integration process using a process flow diagram and requirements template",
+        "Develop and test your integration process, encompassing endpoint creation, data mapping, logic implementation, and advanced planning",
+        "Manage testing and preparing your process for production deployment",
+        "Execute, maintain, and continuously improve your integration",
+        "Materials",
+        "How to Rename Your Runtime and Atom Cloud 0 hr 2 min",
+        "Discover and Build 1 hr 0 min",
+        "Test and Deploy 0 hr 45 min",
+        "Maintain and FAQs 0 hr 30 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Integration Architect Path",
+    "description": "Begin your journey to earning your Integration Architect certification!",
+    "duration": "4 Courses",
+    "link": "https://train.boomi.com/path/integration-architect",
+    "details": {
+      "paragraphs": [],
+      "lists": [
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Integration Developer Path",
+    "description": "Begin your journey to earning your Integration Developer certification!",
+    "duration": "6 Courses",
+    "link": "https://train.boomi.com/path/integration-developer",
+    "details": {
+      "paragraphs": [],
+      "lists": [
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Integration Architecture: Security",
+    "description": "Enhance your understanding of Boomi security with the Integration Architecture: Security course. Learn to define security goals, identify user roles, and implement policies for your integrations.",
+    "duration": "0 hr 30 min",
+    "link": "https://train.boomi.com/integration-architecture-security",
+    "details": {
+      "paragraphs": [
+        "This course focuses on defining security objectives, identifying user roles, and implementing security policies for Boomi integration projects. Designed for integration developers and architects, it aims to enhance understanding of Boomi's security capabilities to safeguard data and ensure compliance.",
+        "Objectives",
+        "This course helps you:",
+        "Recommended Prerequisites\nGetting Started with the Boomi Platform\nIntegration Essentials\nAssociate Integration Developer\nAssociate Runtime Architect\n\nThe Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Establish security objectives for your projects",
+        "Define user roles and Boomi security policies",
+        "Identify customizable security configurations",
+        "Integration Architecture: Security 0 hr 30 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "JWT Authentication using Amazon Cognito as IdP",
+    "description": "Want to use an external Identity Provider (IdP) for Authentication? This Advanced APIM course will give you the tools to configure Amazon as your IdP using OpenID and JWT.",
+    "duration": "1 hr 5 min",
+    "link": "https://train.boomi.com/jwt-authentication-using-amazon-cognito-as-idp",
+    "details": {
+      "paragraphs": [
+        "This course explains how to configure a JWT authentication source using Amazon Cognito. This course is intended for API managers or administrators who want to learn how to create external Identity Provider (IdP) authentication solutions. You will learn how to create an application, a User Pool as well as an Identity Pool in Cognito and obtain the necessary token and authorization URLs. Also, you will examine the JWT Web Token and decode its content to verify the issuer. Finally, you will configure a JWT Authentication Source in Boomi and test an API using Postman.\n\nObjectives",
+        "Recommended Prerequisites\nProfessional API Management",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Create a User Pool and an Identity Pool",
+        "Test the Amazon Cognito Configuration",
+        "Decode the JWT Token",
+        "Create and Assign a JWT Authentication Source to Deployed APIs",
+        "Test the JWT Authentication Source by calling an API",
+        "What is Amazon Cognito 0 hr 10 min",
+        "Creating and Configuring a User Pool 0 hr 10 min",
+        "Creating and Configuring an Identity Pool 0 hr 10 min",
+        "Testing the Cognito Configuration 0 hr 10 min",
+        "Decoding the JWT Token 0 hr 10 min",
+        "Creating and Assigning a JWT Authentication Source 0 hr 5 min",
+        "Testing the JWT Authentication Source by Calling an API 0 hr 10 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "JWT Auth using Microsoft Azure as IdP",
+    "description": "Want to use an external Identity Provider (IdP) for Authentication? This Advanced APIM course will give you the tools to configure Microsoft Azure as your IdP using OpenID and JWT.",
+    "duration": "1 hr 25 min",
+    "link": "https://train.boomi.com/jwt-auth-using-microsoft-azure-as-idp",
+    "details": {
+      "paragraphs": [
+        "This course explains how to configure a JWT authentication source using Microsoft Azure. This course is intended for API managers or administrators who want to learn how to create external Identity Provider (IdP) authentication solutions. You will learn how to create an application in Azure and obtain the necessary Endpoints. Also, you will examine the JWT Web Token and decode its content to verify the issuer. Finally, you will configure a JWT Authentication Source in Boomi and test the API using Postman.\n\nObjectives",
+        "Required Tools\nIt is required to download and install in your computer a REST client like Postman.\n\nThe Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Register Applications in Microsoft Azure",
+        "Configure External Authentication in Boomi for MS Azure IdP\n\nRecommended Prerequisites\nProfessional API Management",
+        "JWT Auth using Microsoft Azure as IdP 1 hr 25 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Linux Operational Administrator Path",
+    "description": "Begin your journey to earning your Linux Operational Administrator certification!",
+    "duration": "5 Courses",
+    "link": "https://train.boomi.com/path/linux-operational-administrator",
+    "details": {
+      "paragraphs": [],
+      "lists": [
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Professional Integration Developer",
+    "description": "Ready to take your integrations to the next level? Join this advanced course to improve your integration skills.",
+    "duration": "7 hr 12 min",
+    "link": "https://train.boomi.com/professional-integration-developer",
+    "details": {
+      "paragraphs": [
+        "This course provides the knowledge and tools necessary to develop advanced processes in the Boomi Platform. It covers advanced features/functionality and logic, document caching, and error handling. Also included is recommended practices/techniques, and common integration scenarios.",
+        "Topics",
+        "Note: If the Resources tab under Business Rules is mentioned, use the Materials section instead, as this has changed.",
+        "We are updating Professional Developer! Instead of waiting for the entire course to be complete, we will publish each portion when it is ready. It allows you to receive updated content as soon as it becomes available. As a result, you may notice lessons in a different learning style than others. We will add each updated lesson to the list below.",
+        "The following lessons are updated:",
+        "Recommended Prerequisites\nIntegration Essentials\nAssociate Integration Developer",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Extensions",
+        "REST",
+        "Process Route",
+        "Process Call",
+        "Business Rules",
+        "Data Process",
+        "Document Caching",
+        "Try/Catch",
+        "Error Handling",
+        "Extensions",
+        "Business Rules",
+        "Process Route",
+        "Process Call",
+        "Data Process",
+        "Materials",
+        "Materials",
+        "How to Rename Your Runtime and Atom Cloud 0 hr 2 min",
+        "Extensions",
+        "Utilizing Extensions 0 hr 50 min",
+        "REST",
+        "REST 0 hr 23 min",
+        "Activity: Configure the HTTP Connector 0 hr 10 min",
+        "Configure and Test the REST Activity 0 hr 5 min",
+        "Activity: Configure and Test the Process 0 hr 5 min",
+        "Business Rules",
+        "Navigating Business Rules 0 hr 45 min",
+        "Data Process",
+        "Transforming Data with the Data Process Step 1 hr 0 min",
+        "Process Route",
+        "Exploring the Process Route Step 1 hr 20 min",
+        "Process Call",
+        "Discovering the Process Call Step 0 hr 50 min",
+        "Document Caching",
+        "Document Cache 0 hr 17 min",
+        "Document Cache Activity 0 hr 13 min",
+        "Try/Catch",
+        "Try/Catch 0 hr 15 min",
+        "Activity: Try/Catch 0 hr 12 min",
+        "Error Handling",
+        "Error Handling 0 hr 10 min",
+        "Activity: Error Handling Part 1 0 hr 5 min",
+        "Validation Techniques 0 hr 10 min",
+        "Exception Shape 0 hr 10 min",
+        "Activity: Error Handling Part 2 0 hr 10 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Professional DataHub Developer",
+    "description": "Elevate your data management. This course empowers you to design & implement advanced DataHub solutions with Boomi. You’ll gain insight and practice developing the data quality your business needs.",
+    "duration": "4 hr 57 min",
+    "link": "https://train.boomi.com/professional-datahub-developer",
+    "details": {
+      "paragraphs": [
+        "The Professional DataHub Developer course is your path to an all-in-one data management and synchronization solution. The course provides scenario-based examples, multimedia content, interactive knowledge checks, and detail-rich activities to prepare you to build the solution your business needs. Building on the concepts covered in foundational Boomi DataHub courses, this offering leads into the opportunity to be certified as a Professional DataHub Developer. Your targeted data quality awaits you.",
+        "Objectives",
+        "Recommended Prerequisites \nIntegration Essentials (must complete this course’s activities to do Professional DataHub Developer activities)\nDataHub Essentials\nAssociate DataHub",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Outline tasks included in the Hub Developer role, and how they create value",
+        "Justify criteria used to design model parameters",
+        "Recommend effective practices for building an initial DataHub implementation",
+        "Apply model design settings to optimize performance",
+        "Manage sources using source defaults and ranking",
+        "Define match rules that achieve your data quality objectives",
+        "Select data quality steps to enforce defined standards",
+        "Configure data quality steps to achieve data management objectives",
+        "Identify the Integration configuration needed to achieve your source synchronization goals",
+        "Apply new data management requirements to improve an existing model design",
+        "Use advanced field configuration options to enforce data quality standards",
+        "Explain how reference fields are used within a model",
+        "Build a reference field to form a relationship between DataHub models",
+        "Define a tag that can be used to achieve targeted reporting",
+        "Specify a descriptive golden record title format",
+        "Deploy, revise and redeploy a model",
+        "Create and use a Staging Area to prepare for source data loading",
+        "Assess the impact of model revisions on existing integrations and components",
+        "Implement updates in source synchronization to and from Hub",
+        "Apply data management practices to diverse use cases",
+        "Materials",
+        "How to Rename Your Runtime and Atom Cloud 0 hr 2 min",
+        "DataHub Developer Mission 0 hr 20 min",
+        "DataHub Solutions Foundations 2 hr 0 min",
+        "Enhance Your Solution 2 hr 30 min",
+        "Expand Your Solution Horizons 0 hr 5 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Professional Flow Developer",
+    "description": "Are you ready to take your Flow skills to the next level? This course dives deeper into advanced topics including complex data storage, installing services, and more.",
+    "duration": "4 hr 39 min",
+    "link": "https://train.boomi.com/professional-flow-developer",
+    "details": {
+      "paragraphs": [
+        "This course will enable learners to expand on their knowledge gained in the Flow Essentials course. It walks learners through more advanced concepts including complex data storage, implementing services, integration with the Boomi platform, debugging flows, parallel flows, access control, customizing players and more.",
+        "Objectives",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Recall concepts covered in the Flow Essentials Course",
+        "Import and test an imported Flow package\n\nRecommended Prerequisites\nGetting Started with the Boomi Platform \nAssociate Flow Essentials",
+        "Materials",
+        "Professional Flow Introduction",
+        "Introduction 0 hr 5 min",
+        "Review of Essentials 0 hr 10 min",
+        "Activity: Import Employee App into a New Tenant 0 hr 5 min",
+        "Using Complex Data Types",
+        "Types and Values 0 hr 10 min",
+        "Complex Values 0 hr 10 min",
+        "Activity: Creating and Using Objects 0 hr 17 min",
+        "Activity: Storing a Collection of Objects 0 hr 5 min",
+        "Flow Debugger",
+        "Debugging 0 hr 10 min",
+        "Activity: Using the Debug Tool 0 hr 3 min",
+        "Page Layout",
+        "Page Layout 0 hr 10 min",
+        "Activity: Building Tables 0 hr 6 min",
+        "Conditions",
+        "Conditions 0 hr 10 min",
+        "Activity: Conditional Processing 0 hr 7 min",
+        "Services",
+        "Services 0 hr 10 min",
+        "Storing Data Externally- Boomi Hub 0 hr 10 min",
+        "Parent-Child Flows",
+        "Modularization 0 hr 10 min",
+        "Activity: Deploying Parallel Flow 0 hr 22 min",
+        "Authentication",
+        "Authentication 0 hr 10 min",
+        "Activity: Implementing Authentication 0 hr 7 min",
+        "Flow API",
+        "Flow API 0 hr 10 min",
+        "Activity: Use API Tool 0 hr 1 min",
+        "Boomi Integration Interop",
+        "Boomi Integration Implementing Flow Services on the Boomi Platform 0 hr 10 min",
+        "Boomi Integration: Relationship between Integration and Flow Components 0 hr 10 min",
+        "Activity: Implementing Boomi Integration Services 0 hr 18 min",
+        "Players",
+        "Players 0 hr 10 min",
+        "Activity: Customize Players 0 hr 8 min",
+        "Macros and Custom Components",
+        "Using Macros 0 hr 10 min",
+        "Activity: Using Macros 0 hr 5 min",
+        "Macros and Custom Components: Metadata 0 hr 10 min",
+        "Activity: Custom Components 0 hr 10 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Professional API Management",
+    "description": "Looking for API governance and security? This course covers how to configure different API Components, install a Gateway, and create a Developer Portal. This course has hands-on activities.",
+    "duration": "6 hr 4 min",
+    "link": "https://train.boomi.com/professional-api-management",
+    "details": {
+      "paragraphs": [
+        "This course provides the knowledge and tools necessary to manage deployed APIs from the API Management service. It is intended for IT professionals with Cloud Computing experience and basic API design and development. You will learn how to create API Service Components and API Proxies, install a local Atom and Gateway to your local Windows or Linux computer, and configure Gateway Authentication, plans, and subscriptions. Also, you will make test API calls and work with the Developer Portal.\n\n*** The Database Connector was renamed from \"Database\" to \"Database (Legacy)\" during the November release. We are currently updating our courses to reflect this change. Thank you for your patience. ***",
+        "Objectives",
+        "Recommended Prerequisites\nIntegration Essentials\nAssociate Integration Developer\nProfessional Integration Developer\nProfessional API Design",
+        "Required Tools",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Understand the basic definition of an API and its life cycle",
+        "Learn how to create an API Service and API Proxy components",
+        "Install a local Atom and Gateway to your computer",
+        "Design Authentication Sources",
+        "Create Plans, Applications, and Subscriptions",
+        "Design the Developer Portal",
+        "Navigate the API Lifecycle Feature",
+        "Learn how to troubleshoot issues and follow recommended practices",
+        "You need a Microsoft Windows or Linux computer with admin permission to install software.",
+        "A REST client like Postman is required to download and install on your computer.",
+        "Materials",
+        "How to Rename Your Runtime and Atom Cloud 0 hr 2 min",
+        "API Management Overview 0 hr 20 min",
+        "API Service Component 0 hr 32 min",
+        "API Proxy Component 0 hr 35 min",
+        "Atoms, Environments, and Gateways 1 hr 5 min",
+        "Authentication 0 hr 45 min",
+        "Plans, Applications, and Subscriptions 0 hr 45 min",
+        "The Developer Portal 1 hr 0 min",
+        "Extra Tools: Troubleshooting and API Lifecycle 0 hr 45 min",
+        "Recommended Practices API Management 0 hr 15 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Professional API Design",
+    "description": "New to the API world? This is where you need to start. In this course, you will learn how to design API solutions for your company. You will also practice this using our Boomi Platform.",
+    "duration": "5 hr 32 min",
+    "link": "https://train.boomi.com/professional-api-design",
+    "details": {
+      "paragraphs": [
+        "This course provides the knowledge and tools necessary to effectively design APIs in the Boomi Enterprise Platform. It covers the fundamental tasks for designing APIs under the Integration Service, how to configure different API components and testing the connectivity of those APIs. This course is intended for cloud and network professionals who want to learn how to create and configure APIs. You should be able to create, configure and call APIs using different methods and protocols like REST, OData and SOAP. You will also practice how to perform these actions in the Boomi Platform. Finally, you will learn the API Management service.\n\n*** The Database Connector was renamed from \"Database\" to \"Database (Legacy)\" during the November release. We are currently updating our courses to reflect this change. Thank you for your patience. ***",
+        "Objectives",
+        "Recommended Prerequisites \nIntegration Essentials\nAssociate Integration Developer\nProfessional Integration Developer",
+        "Required Prerequisites\nYou need a Microsoft Windows or Linux computer with admin permission to install software.\nIt is required to download and install in your computer a REST client like Postman.",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Understand how to initiate the API Design from the Integration Service",
+        "Configure and Exposing Web Services Processes",
+        "Create and configure REST, OData and SOAP APIs",
+        "Review Deployed APIs in API Management service and testing a request",
+        "Materials",
+        "How to Rename Your Runtime and Atom Cloud 0 hr 2 min",
+        "Professional API Design 5 hr 30 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Professional Linux Operational Administrator Certification",
+    "description": "Are you eager to showcase your knowledge of local Linux atom administration? The Professional Linux Operational Administrator Certification is the perfect opportunity for you.",
+    "duration": "1 hr 0 min",
+    "link": "https://train.boomi.com/professional-linux-operational-administrator-certification",
+    "details": {
+      "paragraphs": [
+        "This certification exam is for learners who have finished the required course and are interested in earning the certification. This exam verifies an understanding of foundational knowledge and skills presented in the associated course.",
+        "Highlights:",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "The exam is open-book and open-platform.",
+        "There is no time limit for completing the certification exam.",
+        "The certification exam contains multiple-choice and multiple-response questions.",
+        "Some certification exams include a multiple-choice practical section requiring you to apply concepts in the Boomi Platform to determine the correct answers.",
+        "Certification Exam and Assessment Exam Information",
+        "General Knowledge 1 hr 0 min",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Professional API Management Certification",
+    "description": "Earn this certification to validate your Professional API Management knowledge. Demonstrate you have the skills to implement different API components, authentication, a Gateway and a Developer Portal.",
+    "duration": "1 hr 0 min",
+    "link": "https://train.boomi.com/professional-api-management-certification",
+    "details": {
+      "paragraphs": [
+        "This certification exam is for learners who have finished the required course and are interested in earning the certification. This exam verifies an understanding of foundational knowledge and skills presented in the associated course.",
+        "*** The Database Connector was renamed from \"Database\" to \"Database (Legacy)\" during the November release. We are currently updating our courses to reflect this change. Thank you for your patience. ***",
+        "Highlights:",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "The exam is open-book and open-platform.",
+        "There is no time limit for completing the certification exam.",
+        "The certification exam contains multiple-choice and multiple-response questions.",
+        "Some certification exams include a multiple-choice practical section requiring you to apply concepts in the Boomi Platform to determine the correct answers.",
+        "Certification Exam and Assessment Exam Information",
+        "General Knowledge 1 hr 0 min",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Professional API Design Certification",
+    "description": "Earn this certification to validate your Professional API Design knowledge. Demonstrate you have the skills to implement an API solution and use different protocols like REST, OData, and SOAP.",
+    "duration": "1 hr 0 min",
+    "link": "https://train.boomi.com/professional-api-design-certification",
+    "details": {
+      "paragraphs": [
+        "This certification exam is for learners who have finished the required course and are interested in earning the certification. This exam verifies an understanding of foundational knowledge and skills presented in the associated course.",
+        "*** The Database Connector was renamed from \"Database\" to \"Database (Legacy)\" during the November release. We are currently updating our courses to reflect this change. Thank you for your patience. ***",
+        "Highlights",
+        "For more information, check the Certification Overview.",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "The exam is open-book and open-platform.",
+        "There is no time limit for completing the certification exam.",
+        "The certification exam contains multiple-choice and multiple-response questions.",
+        "Some certification exams include a multiple-choice practical section requiring you to apply concepts in the Boomi Platform to determine the correct answers.",
+        "Certification Exam and Assessment Exam Information",
+        "General Knowledge 1 hr 0 min",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Professional Integration Developer Certification",
+    "description": "Do you want to prove your expertise in Boomi developer skills? The Professional Developer Certification is the perfect way to develop Boomi developer skills and is ideal for establishing your expertise and standing out.",
+    "duration": "3 hr 2 min",
+    "link": "https://train.boomi.com/professional-integration-developer-certification",
+    "details": {
+      "paragraphs": [
+        "This certification exam is for learners who have finished the required course and are interested in earning the certification. It verifies understanding of the knowledge and skills presented in the course.",
+        "*** The Database Connector was renamed from \"Database\" to \"Database (Legacy)\" during the November release. We are currently updating our courses to reflect this change. Thank you for your patience. ***",
+        "Highlights:",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience.\nSome images and details in this training may differ from those in the Boomi Platform."
+      ],
+      "lists": [
+        "The exam is open-book and open-platform.",
+        "There is no time limit for completing the certification exam.",
+        "The certification exam contains multiple-choice and multiple-response questions.",
+        "Some certification exams include a multiple-choice practical section requiring you to apply concepts in the Boomi platform to determine the correct answers.",
+        "For more information, check the Certification Overview below.",
+        "How to Rename Your Runtime and Atom Cloud 0 hr 2 min",
+        "Certification Exam and Assessment Exam Information",
+        "Exam Attempt Limits and Lockout",
+        "General Knowledge 1 hr 0 min",
+        "Practical 1 hr 0 min",
+        "Build From Scratch Certification Exam Instructions",
+        "Build From Scratch 1 hr 0 min",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Professional Windows Operational Administrator Certification",
+    "description": "Are you eager to demonstrate your knowledge of local Windows atom administration? The Professional Windows Operational Administrator Certification is the perfect opportunity for you.",
+    "duration": "1 hr 0 min",
+    "link": "https://train.boomi.com/professional-windows-operational-administrator-certification",
+    "details": {
+      "paragraphs": [
+        "This certification exam is for learners who have finished the required course and are interested in earning the certification. This exam verifies an understanding of foundational knowledge and skills presented in the associated course.",
+        "Highlights:",
+        "For more information, check the Certification Overview.",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "The exam is open-book and open-platform.",
+        "There is no time limit for completing the certification exam.",
+        "The certification exam contains multiple-choice and multiple-response questions.",
+        "Some certification exams include a multiple-choice practical section requiring you to apply concepts in the Boomi platform to determine the correct answers.",
+        "Certification Exam and Assessment Exam Information",
+        "General Knowledge 1 hr 0 min",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Professional DataHub Developer Certification",
+    "description": "Prove your data management expertise - achieve the Boomi Professional DataHub Developer Certification!",
+    "duration": "4 hr 25 min",
+    "link": "https://train.boomi.com/professional-datahub-developer-certification",
+    "details": {
+      "paragraphs": [
+        "This certification exam is for learners who have finished the required course and are interested in earning the certification. This exam verifies an understanding of foundational knowledge and skills presented in the associated course.",
+        "Highlights:",
+        "For more information, check the Certification Overview.",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "The exam is open-book and open-platform.",
+        "There is no time limit for completing the certification exam.",
+        "The certification exam contains multiple-choice and multiple-response questions.",
+        "Some certification exams include a multiple-choice practical section requiring you to apply concepts in the Boomi platform to determine the correct answers.",
+        "Professional DataHub Developer Certification Overview",
+        "Certification Exam and Assessment Exam Information",
+        "Exam Attempt Limits and Lockout",
+        "General Knowledge",
+        "General Knowledge Exam 1 hr 10 min",
+        "Practical",
+        "Practical Exam – Initial Setup 0 hr 30 min",
+        "Practical Exam - Model 0 hr 30 min",
+        "Practical Exam - Synchronization Setup 1 hr 30 min",
+        "Practical Exam - Synchronization 0 hr 45 min",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Runtime Architecture: Build to Scale",
+    "description": "Discover the secrets of scalable Runtimes. Delve into project needs, explore monitoring for performance, and master scalability.",
+    "duration": "1 hr 0 min",
+    "link": "https://train.boomi.com/runtime-architecture-build-to-scale",
+    "details": {
+      "paragraphs": [
+        "This course is for Runtime Architects continuing on their journey towards an Associate Runtime Architect Certification.  In this course, you will delve into the key aspects of crafting scalable architectures to meet project requirements. Throughout the course, you'll gain insights into understanding project needs that shape scalable architecture, explore various monitoring options for performance evaluation, and learn to assess scalability options to seamlessly adapt to changes in demand. By mastering these essential skills, you'll be equipped to design robust and efficient architectures capable of thriving in dynamic environments.",
+        "Objectives",
+        "Recommended Prerequisites\nGetting Started with the Boomi Platform\nIntegration Essentials\nAssociate Integration Developer\n\nThe Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Understand the project requirements that affect scalable architecture",
+        "Discover monitoring options for performance",
+        "Evaluate scalability options based on changes in demand",
+        "Runtime Architecture: Build to Scale 1 hr 0 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Runtime Architecture: Optimizing Performance",
+    "description": "Want to learn how to maximize your runtime performance? This course goes over different performance metrics and runtime settings that will help you optimize runtime performance.",
+    "duration": "1 hr 55 min",
+    "link": "https://train.boomi.com/runtime-architecture-optimizing-performance",
+    "details": {
+      "paragraphs": [
+        "This is a good course for Boomi architects and developers to build a foundation of performance metrics and runtime parameters. You will learn how to adjust heap size, how logging affects performance, and which types of parallel processing are possible with each runtime. With this knowledge, you will be able to evaluate and select runtime properties to fit your performance requirements.  \n\nObjectives",
+        "Recommended Prerequisites\nGetting Started with the Boomi Platform\nIntegration Essentials\nIntroduction to Runtime Options\nAssociate Integration Developer\n\nThe Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Define the factors and parameters that affect runtime performance",
+        "Define terms that may impact runtime performance",
+        "Demonstrate knowledge of factors that impact Heap Size and apply that knowledge to a simulation activity",
+        "Demonstrate knowledge of the different factors that impact Parallel Processing",
+        "Identify the main differences between process modes and best practices for their use",
+        "Compare Boomi Runtime performance metrics",
+        "Interpret other parameters to consider when optimizing runtime performance",
+        "Introduction to Runtime Performance 0 hr 15 min",
+        "Reference Guide 0 hr 15 min",
+        "Heap Size 0 hr 20 min",
+        "Parallel Processing 0 hr 30 min",
+        "Logging and Low Latency 0 hr 20 min",
+        "Additional Information and Resources 0 hr 15 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Runtime Disaster Recovery",
+    "description": "Plan for the worst with this short course on creating a Disaster Recovery Plan for your Runtime Architecture.",
+    "duration": "0 hr 30 min",
+    "link": "https://train.boomi.com/runtime-disaster-recovery",
+    "details": {
+      "paragraphs": [
+        "This course is for Runtime Architects and stakeholders who will implement a Disaster Recovery Plan. This course will describe Disaster Recovery strategies and planning for Boomi Runtimes. You will learn the steps in responding to a disaster, and the benefits and challenges of different architectural approaches to setting up your recovery systems.",
+        "Objectives",
+        "Recommended Prerequisites\nGetting Started with the Boomi Platform\nIntegration Essentials\nAssociate Integration Developer\nAssociate Runtime Architect",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Identify the Boomi Runtime components for your Disaster Recovery Plan",
+        "Recognize when a disaster requires implementation of the plan",
+        "Runtime Disaster Recovery 0 hr 30 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Runtime Architecture: Foundations",
+    "description": "This course is designed for integration developers and architects to explore the fundamental mechanics of Boomi Runtime operations, optimize deployments for common business applications, and enhance proficiency in strategic deployment decision-making.",
+    "duration": "1 hr 0 min",
+    "link": "https://train.boomi.com/runtime-architecture-foundations",
+    "details": {
+      "paragraphs": [
+        "Discover the fundamental mechanics of Runtime operations and optimization in this excellent course designed for integration developers and architects. Identify and review the properties of each Boomi Runtime deployment, gaining insights into selecting the most appropriate deployments for common business applications. Enhance your understanding of Boomi Runtime by learning to optimize its operations and strategically deploy it for optimal performance in various scenarios.",
+        "Objectives",
+        "Recommended Prerequisites\nGetting Started with the Boomi Platform\nIntegration Essentials\nAssociate Integration Developer",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Learn the basic functions and mechanics of Runtime architecture",
+        "Select from available Runtime options to fit a business need",
+        "Discover tips and suggestions for designing optimal Runtime architecture",
+        "Runtime Architecture: Foundations 1 hr 0 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Reading Log Files in API Management",
+    "description": "Do you know how to read Log Files, detect errors, and what circumstances create them? This Advanced APIM course covers how to use a Log Reader application and message interpretation.",
+    "duration": "1 hr 10 min",
+    "link": "https://train.boomi.com/reading-log-files-in-api-management",
+    "details": {
+      "paragraphs": [
+        "This course is part of a series of topic-based training content. The scope of this course is not covered in the Professional API Design or Professional API Management courses. We will present advanced API Management concepts to help you troubleshoot and find connectivity issues in your Atoms, APIs, or Gateways. Topics like Log Viewer installation, reading Log files, and interpreting them are covered.\n\nObjectives",
+        "The Boomi Enterprise Platform platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Install a Log Viewer",
+        "Locate the Log Files",
+        "Open a Log File",
+        "Read the Log File entries",
+        "Download Log Files from the Boomi Platform",
+        "Interpret the Logs",
+        "Learn tips for Using the Logs",
+        "Follow next steps\n\nRecommended Prerequisites\nProfessional API Design\nProfessional API Management",
+        "Reading Log Files in API Management 1 hr 10 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Understanding Branch and Merge",
+    "description": "Discover the key to effective teamwork and code integrity with Boomi's Branch and Merge feature. Enhance collaboration, easily manage changes, and ensure smooth-running Boomi projects. Start today!",
+    "duration": "1 hr 0 min",
+    "link": "https://train.boomi.com/understanding-branch-and-merge",
+    "details": {
+      "paragraphs": [
+        "Discover the power of collaborative development with Boomi's Branch and Merge functionality. This course equips you with the knowledge and skills to manage changes within your Boomi projects, ensuring seamless teamwork and code integrity.",
+        "Objectives",
+        "Recommended Prerequisites\nGetting Started with the Boomi Platform\nIntegration Essentials",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Evaluate how Boomi's Branch and Merge functionality enhances project development by assessing its effects on team collaboration.",
+        "Compare strategies for implementing Boomi's Branch and Merge across project scenarios.",
+        "Develop a detailed plan for integrating Boomi's Branch and Merge it into the current project workflows.",
+        "Materials",
+        "Understanding Branch and Merge 1 hr 0 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Using AI Agents: Boomi Answers",
+    "description": "Unlock the full potential of the Boomi platform with Boomi Answers! Learn to ask effective questions and boost your productivity for a smoother Boomi experience.",
+    "duration": "0 hr 35 min",
+    "link": "https://train.boomi.com/using-ai-agents-boomi-answers",
+    "details": {
+      "paragraphs": [
+        "This course empowers you to enhance your Boomi Enterprise Platform experience through the effective use of Boomi Answers. Learn how Boomi Answers can make your work faster and boost your productivity. You’ll practice asking clear questions to improve your conversations with Boomi Answers. You’ll also understand the limits of AI tools, which will help you use Boomi Answers with confidence. Start now to make the most of your journey with Boomi!",
+        "Objectives\nThis course helps you:",
+        "Recommended Prerequisites\nGetting Started with the Boomi Platform\nIntroducing Boomi AI Agents",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Identify the benefits of utilizing Boomi Answers to enhance your Boomi Enterprise Platform experience",
+        "Formulate effective questions to interact with Boomi Answers by applying best practices for question phrasing and providing context",
+        "Recognize the limitations of AI-driven tools, including the potential for variability in responses, and apply this understanding to your use of Boomi Answers",
+        "Using AI Agents: Boomi Answers 0 hr 35 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Using Boomi for SAP Version 1.7",
+    "description": "Boomi for SAP accelerates SAP integrations! Discover how to implement an Event-Driven architecture for SAP.",
+    "duration": "2 hr 2 min",
+    "link": "https://train.boomi.com/using-boomi-for-sap",
+    "details": {
+      "paragraphs": [
+        "Are you looking to accelerate SAP integration with an intuitive web-based user interface? This course explores the architecture and benefits of Boomi for SAP. It also explores table services, business warehouse extractors, function modules, data wizards, table service extracts, events, IDocs, and ABAP Proxies. To get the most out of this course, you should be familiar with SAP and the Boomi platform.",
+        "Objectives",
+        "Recommended Prerequisites\nIntegration Essentials\nAssociate Integration Developer\nProfessional Integration Developer",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi Platform."
+      ],
+      "lists": [
+        "Explain Boomi for SAP, including its core components, features, and connector functionality",
+        "Create and extract Table Services and Table Service Extract to Boomi platform",
+        "Activate, send, and receive Business Warehouse extractors",
+        "Find, create, and use SAP Function Modules",
+        "Create a Receiver, Subscription, and Topic on both Business Objects and Change Pointers to trigger events in SAP",
+        "Use Solace and the Solace connector to manage Event Queues for processing a large volume of events",
+        "Set up IDocs for inbound and outbound communication",
+        "How to Rename Your Runtime and Atom Cloud 0 hr 2 min",
+        "Using Boomi for SAP Version 1.7 2 hr 0 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Using APIs to Manage Your Data",
+    "description": "Take this course to get started using DataHub APIs. We'll cover the available API types and how to use them.",
+    "duration": "0 hr 45 min",
+    "link": "https://train.boomi.com/using-apis-to-manage-your-data",
+    "details": {
+      "paragraphs": [
+        "This course provides what you need to get started using DataHub APIs. It covers the basics of the available API types and supporting documentation, and then provides two examples of how to complete DataHub API requests. Throughout, there are demos that you can apply to your own environment. The course concludes with an invitation to define your next steps, informed by examples of how others have used DataHub APIs to reach their data management goals.",
+        "Objectives",
+        "Recommended Prerequisites\nGetting Started with the Boomi Platform\nIntegration Essentials\nDataHub Essentials\nAssociate DataHub",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Identify the value of Hub APIs in building a data management solution for your business.",
+        "Differentiate between the Platform and Repository APIs.",
+        "Retrieve a list of DataHub models using the Get Models Platform API.",
+        "Retrieve a list of golden records in a specified domain using the Query Golden Records Repository API.",
+        "Explore diverse use cases and resources to define how you will use DataHub APIs.",
+        "Your Data Management API Toolbox 0 hr 5 min",
+        "Platform API Demo: Get Models 0 hr 15 min",
+        "Repository API Demo: Query Golden Records 0 hr 20 min",
+        "What Will You Build? 0 hr 5 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Using API Metrics to Analyze API Calls",
+    "description": "Any API needs to be monitored and this course will teach you that. It covers how to create Detail and Summary Queries to show performance and usage. This is part of the Advanced APIM Topics.",
+    "duration": "0 hr 30 min",
+    "link": "https://train.boomi.com/using-api-metrics-to-analyze-api-calls",
+    "details": {
+      "paragraphs": [
+        "This course covers the API Metrics feature that allows you to request a series of API calls metadata stored inside a Gateway. This could be interpreted as a quick reporting method. The intended audience is professional API managers or administrators. The learner will have the opportunity to run Detail and Summary API Metrics to determine Metadata like, how many calls have been made to an API in a period of time or what is the response mean time of an API. This will be done using GraphQL code or by using a Dashboard. This course requires you to have APIs already deployed and make some calls to those APIs in order to generate metadata.",
+        "Objectives",
+        "Recommended Prerequisites\nProfessional API Management\nUsing GraphQL to Configure Deployed APIs",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Identify the role API Metrics play in obtaining metadata from your API Calls.",
+        "Enable API Metrics Data Collection for the recording and monitoring of API calls.",
+        "Navigate the API Dashboard to locate overall API performance data.",
+        "Enable the API Explorer and identify its User Interface elements.",
+        "Develop an API Metrics Detail Query to pull Gateway request metadata.",
+        "Develop an API Metrics Summary Query to pull API request metadata.",
+        "Synthesize the API Metrics results from the API Dashboard, Detail Query, and Summary Query.",
+        "API Metrics Overview 0 hr 5 min",
+        "Enabling API Metrics Data Collection 0 hr 5 min",
+        "Using the API Dashboard 0 hr 5 min",
+        "Using GraphQL to Query API Metrics 0 hr 5 min",
+        "Creating an API Metrics Detail Query 0 hr 5 min",
+        "Creating an API Metrics Summary Query 0 hr 5 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Using Boomi for SAP Version 1.7 Assessment",
+    "description": "Are you ready to showcase your skills Using Boomi for SAP? Prove your expertise by taking the Using Boomi for SAP Assessment.",
+    "duration": "1 hr 0 min",
+    "link": "https://train.boomi.com/using-boomi-for-sap-assessment",
+    "details": {
+      "paragraphs": [
+        "This assessment validates knowledge of the use of key Boomi for SAP concepts."
+      ],
+      "lists": [
+        "Certification Exam and Assessment Exam Information",
+        "General Knowledge 1 hr 0 min",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Using Decision Map Elements and Business Rules",
+    "description": "Do you need to make decisions in your flow? Learn what the Decision element is and how to use it with Business Rules to set conditions.",
+    "duration": "0 hr 30 min",
+    "link": "https://train.boomi.com/using-decision-map-elements-and-business-rules",
+    "details": {
+      "paragraphs": [
+        "In our Using Decision Map Elements and Business Rules, you are learning what a decision map element is, when it's helpful to use in your flow, and how to use it alongside business rules to incorporate logic into your flow. Plus, to help you retain all the knowledge you are gaining, you can test yourself with knowledge checks throughout. Finally, you gain hands-on experience using decision map elements and business rules in a flow by completing our step-by-step activity. It's a great course for anyone that wants to build conditional routing into their flow.",
+        "Objectives",
+        "Recommended Prerequisites\nGetting Started with the Boomi Platform\nAssociate Flow Essentials\nProfessional Flow Developer",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Using Decision map elements and business rules to change the path of a flow",
+        "Use logic elements to design conditional statements",
+        "Nested conditions",
+        "Brainstorm solutions to a non-functioning app due to incorrect outcomes and business rules",
+        "Using Decision Map Elements and Business Rules 0 hr 30 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Using GraphQL to Configure Deployed APIs",
+    "description": "Develop the necessary proficiency for creating GraphQL Queries and Mutations. This Advanced APIM course introduces the options needed to configure and set up APIs and Gateways.",
+    "duration": "1 hr 0 min",
+    "link": "https://train.boomi.com/using-graphql-to-configure-deployed-apis",
+    "details": {
+      "paragraphs": [
+        "This course covers the basics of GraphQL coding. The purpose is to give you a simple explanation of the syntax and how to use the code to interact with the API Management service; specifically Gateways and APIs. The intended audience is professional API managers or administrators. The learner will have the opportunity to run Queries that will show object's properties and metadata, and Mutations that allows them to make updates to current properties. This course requires you to have APIs already deployed and a Gateway connected to an Atom.",
+        "Objectives",
+        "Recommended Prerequisites\nProfessional API Design\nProfessional API Management",
+        "Required Tools\nIt is required to download and install in your computer a REST client like Postman and a GraphQL IDE client like Altair GraphQL (optional).",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Install a GraphQL Client Integrated Development Environment (IDE)",
+        "Retrieve a JWT Token from the Boomi platform",
+        "Run a GraphQL Query to show Gateway and APIs properties",
+        "Update Gateway properties using a GraphQL Mutation",
+        "Using GraphQL to Configure Deployed APIs 1 hr 0 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Web Services Event-Based Integrations",
+    "description": "Create real-time integrations with Web Services & REST in this hands-on course. Build & test your own solution!",
+    "duration": "1 hr 2 min",
+    "link": "https://train.boomi.com/web-services-event-based-integrations",
+    "details": {
+      "paragraphs": [
+        "This course explains how to develop Event-based integration solutions. Discover the concept, advantages, and setup of Event-based integration, including Shared Web Servers and their configuration. Explore Web Services, REST Connectors and their Connections, and Operations. In addition, you will have the opportunity to test a sample integration solution on the Boomi platform in the Activities.",
+        "Objectives",
+        "Recommended Prerequisites\nIntegration Essentials \nAssociate Integration Developer",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi Platform."
+      ],
+      "lists": [
+        "Define what Event-Based Integration is and the role it plays in real-time data processing.",
+        "Navigate the Shared Web Server interface and its settings.",
+        "Configure the settings and components needed for the Shared Web Server.",
+        "Develop a Web Service (RESTful) process with a Web Services Listener connector.",
+        "Identify the different Process Modes and how they can benefit your Event-Based Integration solution.",
+        "Develop a Web Client process and perform an HTTP POST request to the Shared web Server.",
+        "Demonstrate your Web Services Event-Based Integration solution is successfully executing real-time processing.",
+        "Materials",
+        "How to Rename Your Runtime and Atom Cloud 0 hr 2 min",
+        "Web Services Event-Based Integrations 1 hr 0 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Working with Complex Data",
+    "description": "Looking to expand your Flow skillset? Go beyond the basics, and learn what advanced data types are available in Flow.",
+    "duration": "0 hr 30 min",
+    "link": "https://train.boomi.com/working-with-complex-data",
+    "details": {
+      "paragraphs": [
+        "In this course, you will learn more about the relationship between Types, Object Values, and List Values, as well as how to incorporate them into your flow design.",
+        "Objectives",
+        "Recommended Prerequisites\nGetting Started with the Boomi Platform\nAssociate Flow Essentials",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Defining and using Object Values",
+        "Defining and using List Values",
+        "Primitive values vs. complex values",
+        "Define Objects, Types and Properties",
+        "Use the Operator element to add an Object Value to a List Value",
+        "Identify how to display list results in a flow",
+        "Working with Complex Data 0 hr 30 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Working with EDI Trading Partners",
+    "description": "This course tells you why and how to use the Trading Partner shape in Boomi to enable EDI transmissions, with examples using the EDIFACT standard.",
+    "duration": "1 hr 0 min",
+    "link": "https://train.boomi.com/working-with-edi-trading-partners",
+    "details": {
+      "paragraphs": [
+        "Are you wondering what the difference is between a Trading Partner connector and other Boomi connectors? What are the advantages to using the Trading Partner step? This course is for customers who may be new either to EDI or to the Boomi Platform who want to know more about Trading Partners. Learners will discover the advantages of using the Trading Partner connector for EDI processes by following the story of a manufacturer with many suppliers and retail partners. Activities take the learner through the process of creating a retail partner, and completing an inbound order integration.\n\nObjectives",
+        "Recommended Prerequisites \nEDI Essentials\nIntegration Essentials",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Identify key decisions needed for setting up your Trading Partners",
+        "List connections we support (including VANs)",
+        "Analyze scenarios for using a VAN versus configuring individual trading partners",
+        "Examine options for acknowledgments",
+        "Contrast design patterns for using Organizations, Processing Groups, and Communication Channels",
+        "Working with EDI Trading Partners 1 hr 0 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Windows Platform Administrator Path",
+    "description": "Begin your journey to earning your Windows Platform Administrator certification!",
+    "duration": "5 Courses",
+    "link": "https://train.boomi.com/path/windows-platform-administrator",
+    "details": {
+      "paragraphs": [],
+      "lists": [
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Working with Dynamic Connections",
+    "description": "Have you considered using a dynamic connection in your integration? Watch this course to discover its benefits.",
+    "duration": "0 hr 15 min",
+    "link": "https://train.boomi.com/working-with-dynamic-connections",
+    "details": {
+      "paragraphs": [
+        "Would you like to configure your connection properties at execution time? If you have Dynamic Connections enabled in your account, you can. This Integration course explains the whys and hows behind enabling Dynamic Connections.",
+        "Objectives",
+        "Recommended Prerequisites\nGetting Started with the Boomi Platform\nIntegration Essentials",
+        "The Boomi Enterprise Platform is updated regularly to enhance functionality and user experience. Some images and details in this training may differ from how they appear in the Boomi platform."
+      ],
+      "lists": [
+        "Benefits of Dynamic Connections",
+        "Use Cases of Dynamic Connections",
+        "Dynamic Connections Demonstration",
+        "Creating Dynamic Connections",
+        "Dynamic Connections 0 hr 15 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Integration 1",
+    "description": "Learn foundational integration concepts, terminology, and tools in an interactive, expert-led setting to start your journey as a Boomi integration developer. You'll build and deploy your first processes while exploring the Boomi platform hands-on. This training is virtual and conducted over three sessions.",
+    "duration": "9 hr 0 min",
+    "link": "https://train.boomi.com/integration-1",
+    "details": {
+      "paragraphs": [
+        "Get started on your integration journey with this live, instructor-led session designed for beginners. You'll explore the core concepts, terminology, and tools that form the foundation of Boomi integrations. Whether you're new to the space or need a structured refresher, this course will help you build a strong base of knowledge in a collaborative, interactive environment.",
+        "This course helps you:",
+        "Requirements:\nMake sure you have logged into your Platform Training Account prior to the session.",
+        "Note:\nThis offering is only available to residents of the United States.",
+        "Refunds are not available. If you need to reschedule, you may choose another multi-session event within 90 days of your payment date. To do this, select \"Cancel Registration\" and register for another time.",
+        "Before registration, you must accept the Terms and Conditions."
+      ],
+      "lists": [
+        "Use instructions to build, deploy, and undeploy a process",
+        "Build, test, and troubleshoot intermediate-level integration processes",
+        "Explain the Development Life Cycle",
+        "Manage and Schedule processes",
+        "Incorporate basic administration tasks",
+        "Analyze how documents flow through a process and how to control them",
+        "Materials",
+        "Integration 1 Events 9 hr 0 min",
+        "Instructor-Led Training Survey",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Integration 2",
+    "description": "Take the next step with intermediate-level integration techniques, including process logic, scheduling, troubleshooting, and document flow analysis. Designed for those who have completed Integration 1 or have equivalent experience, this course builds your confidence in real-world integration scenarios. This training is virtual and delivered over two sessions.",
+    "duration": "6 hr 0 min",
+    "link": "https://train.boomi.com/integration-2",
+    "details": {
+      "paragraphs": [
+        "This course provides the knowledge and tools necessary to develop advanced processes in the Boomi Platform. It covers advanced features/functionality and logic, document caching, and error handling. Also included are recommended practices/techniques and common integration scenarios.",
+        "This course helps you:",
+        "Requirements:",
+        "Note:\nThis offering is only available to residents of the United States.",
+        "Refunds are not available. If you need to reschedule, you may choose another multi-session event within 90 days of your payment date. To do this, select \"Cancel Registration\" and register for another time.",
+        "Before registration, you must accept the Terms and Conditions."
+      ],
+      "lists": [
+        "Determine when you can or should use extensions to enhance your integrations",
+        "Demonstrate practical usage of the Process Call step by configuring a main process to send documents to a subprocess",
+        "Customize your solution with the Business Rules step",
+        "Use Document caching to store documents for retrieval during process execution",
+        "Analyze an Integration process containing errors and implement a comprehensive error-handling approach",
+        "Incorporate basic administration tasks",
+        "Analyze how documents flow through a process and how to control them",
+        "Use the Try/Catch Step to capture errors for document that fail during an execution",
+        "Define REST and configure a RESTful web service",
+        "A laptop with Admin Access",
+        "Completing Integration Essentials and Associate Integration Developer or Integration 1",
+        "Have Boomi Test and Production Clouds active in your Boomi Platform Training Account (detailed instructions are in the Integration Essentials course)",
+        "Materials",
+        "Integration 2 Events 6 hr 0 min",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Integration 3",
+    "description": "Build on your foundation and explore advanced integration approaches designed specifically for Boomi certified professionals ready to tackle real-world challenges. This training is virtual and conducted over three sessions.",
+    "duration": "9 hr 0 min",
+    "link": "https://train.boomi.com/integration-3",
+    "details": {
+      "paragraphs": [
+        "Take your integration expertise to the next level in this advanced, instructor-led course designed for certified professional developers. Building on foundational knowledge, this session focuses on applying integration concepts to real business use cases and solving complex challenges across systems and processes.",
+        "Through interactive discussions, guided exercises, and practical scenarios, you'll deepen your understanding of integration design, error handling, performance optimization, and best practices. You'll also explore strategies for building scalable, maintainable solutions that align with real-world business requirements.",
+        "Whether you're working with APIs, managing complex workflows, or designing for resilience, this course gives you the hands-on experience and expert insight needed to confidently tackle advanced integration challenges.",
+        "This course helps you:",
+        "Requirements:",
+        "Note:\nThis offering is only available to residents of the United States.",
+        "Refunds are not available. If you need to reschedule, you may choose another multi-session event within 90 days of your payment date. To do this, select \"Cancel Registration\" and register for another time.",
+        "Before registration, you must accept the Terms and Conditions."
+      ],
+      "lists": [
+        "Distinguish between functional and non-functional requirements and their impact on Integration design",
+        "Describe integration design patterns, such as Content Enrichment, Canonical Data Model, and Scatter-Gather, along with the rationale for their use",
+        "Explain the significance of Unit Testing, Integration Testing, and User Acceptance Testing within the Boomi lifecycle",
+        "Design an integration solution for the Trip Search service use case that incorporates both functional and non-functional requirements",
+        "Create a Custom Library Component to use in the Trip Search service integration",
+        "Add and retrieve documents from a cache as part of implementing the Scatter-Gather design pattern in the Trip Search Service use case",
+        "Configure Route and Flow Control steps to perform parallel queries",
+        "Utilize Data Process custom scripting to filter documents and apply Branch Management to handle separate implementation paths",
+        "Implement the Process Route to improve the integration workflow",
+        "Convert an integration process to a Web service using the Web Service Server Connector",
+        "Use Atom queues to send and retrieve messages asynchronously",
+        "Configure Boomi Event Streams to produce and consume messages, while supporting fault tolerance",
+        "Enable document tracking within processes for use in Process Reporting and troubleshooting",
+        "Package and Deploy a Process using the Boomi Platform API",
+        "A laptop with Admin Access",
+        "Completing Integration Essentials, Associate Integration Developer, and Professional Integration Developer OR Integration 1 and Integration 2",
+        "Have Boomi Test and Production Clouds active in your Boomi Platform Training Account (detailed instructions are in the Integration Essentials course)",
+        "Materials",
+        "Integration 3 Events 9 hr 0 min",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "AI RAG with Boomi",
+    "description": "Discover how to implement and enable AI Retrieval-Augmented Generation (RAG) patterns in your business using Boomi, optimizing effectiveness across all areas. This training is virtual and conducted over two sessions.",
+    "duration": "6 hr 0 min",
+    "link": "https://train.boomi.com/ai-rag-with-boomi",
+    "details": {
+      "paragraphs": [
+        "In this live, virtual instructor-led course, you'll explore how to harness the power of AI Retrieval-Augmented Generation (RAG) by integrating it with Boomi's low-code integration platform. This course is designed for technical professionals, solution architects, and innovation leaders. It offers a practical, hands-on approach to designing and deploying AI-driven solutions that can access and utilize both structured and unstructured data.",
+        "You'll learn how to build intelligent data pipelines with Boomi to use relevant information from internal and external data sources—such as CRMs, document repositories, knowledge bases, and cloud apps—and inject it into large language models (LLMs) to generate contextually rich and accurate responses. Through step-by-step examples and use cases, you'll understand how RAG patterns enhance the quality of generative AI output by grounding it in trusted enterprise data.",
+        "This course helps you:",
+        "This course bridges the gap between integration platforms and generative AI, empowering you to unlock more value from your data and drive smarter business outcomes.",
+        "Requirements:",
+        "Note:\nThis offering is only available to residents of the United States.",
+        "Refunds are not available. If you need to reschedule, you may choose another multi-session event within 90 days of your payment date. To do this, select \"Cancel Registration\" and register for another time.",
+        "Before registration, you must accept the Terms and Conditions."
+      ],
+      "lists": [
+        "Outline the primary benefits and limitations of Generative AI and summarize its core operational principles",
+        "Categorize different benefits of Retrieval-Augmented Generation (RAG) based on the specific challenges it addresses",
+        "Apply a Boomi recipe to build a functional RAG solution",
+        "A laptop with Admin Access",
+        "Completing Integration Essentials and Associate Integration Developer",
+        "Have Boomi Test and Production Clouds active in your Boomi Platform Training Account (detailed instructions are in the Integration Essentials course)",
+        "Materials",
+        "AI RAG Events 6 hr 0 min",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "インテグレーションの基本 (Integration Essentials)",
+    "description": "AtomSphere統合は初めてで、最初のプロセスの構築をご希望ですか？ この魅力的な概要コースでは、関連する使用例を扱います。",
+    "duration": "1 hr 30 min",
+    "link": "https://train.boomi.com/integration-essentials-ja",
+    "details": {
+      "paragraphs": [
+        "AtomSphere統合は初めてで、最初のプロセスの構築をご希望ですか？ この魅力的な概要コースでは、関連する使用例を扱います。それにより、学習内容を実践的な活動に応用できるようになります。",
+        "このトレーニングを修了すると、ステップごとの説明を使用して、プロセスの構築やデプロイ、アンデプロイを行えるようになります。",
+        "推奨される前提条件：AtomSphereプラットフォームを開始する",
+        "DISCLAIMER:",
+        "機能やユーザー体験向上のためにAtomSphere プラットフォームは随時更新されています。このトレーニングの画像や詳細はAtomSphere プラットフォームで実際に表示されるものと異なる可能性があります。",
+        "このコースに問題がありましたらjapan-training@boomi.comまでご連絡ください。"
+      ],
+      "lists": [
+        "Materials",
+        "インテグレーションの基本：インテグレーションを開始する 0 hr 10 min",
+        "インテグレーションの基本-：-atom-cloudを理解する 0 hr 5 min",
+        "インテグレーションの基本：環境を理解する 0 hr 5 min",
+        "インテグレーションの基本：シェイプの操作 0 hr 10 min",
+        "インテグレーションの基本：テストモードでプロセスを実行する 0 hr 5 min",
+        "インテグレーションの基本：ドキュメントを定義しフローを理解する 0 hr 10 min",
+        "インテグレーションの基本-プロファイルの操作 0 hr 10 min",
+        "インテグレーションの基本：マップシェイプを理解する 0 hr 10 min",
+        "インテグレーションの基本：マッピング 0 hr 5 min",
+        "インテグレーションの基本：デプロイメントを理解する 0 hr 5 min",
+        "インテグレーションの基本：プロセスレポートを理解する 0 hr 5 min",
+        "インテグレーションの基本：アンデプロイを理解する 0 hr 10 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "アソシエイトインテグレーションデベロッパー (Associate Integration Developer)",
+    "description": "「インテグレーションの基本」は興味深い内容でしたか？ このコースでは、実践的なシナリオを使用して複雑なプロセスを紹介します。",
+    "duration": "4 hr 5 min",
+    "link": "https://train.boomi.com/associate-integration-developer-1",
+    "details": {
+      "paragraphs": [
+        "「インテグレーションの基本」によって、AtomSphere開発者になることについてもっと知りたいという気持ちが高まりましたか？ この準レベルのクラスでは、複数のシナリオを使用して、複雑なプロセスを作成する方法を学びます。また、開発ライフサイクル、ドキュメントフロー、プロパティ、開発者管理ツールについても学習します。",
+        "目的",
+        "このコースを終了するまでに、次のことができるようになります。",
+        "中級レベルの統合プロセスの構築、テスト、トラブルシューティング",
+        "開発ライフサイクルの説明、プロセスの管理とスケジュール",
+        "さまざまなプロパティタイプについて説明する、基本的な管理タスクを組み込む",
+        "ドキュメントがプロセス内をどのように流れるか、およびドキュメントをどのようにコントロールするかを分析する",
+        "推奨される前提条件",
+        "インテグレーションの基本",
+        "必須ツール",
+        "Notepad などのテキストエディター",
+        "機能やユーザー体験向上のためにAtomSphere platformは随時更新されています。このトレーニングの画像や詳細はAtomSphere platformで実際に表示されるものと異なる可能性があります。AtomSphere 2022年10月リリース以降、プラットフォームのシェイプアイコンが変更されています。レガシーのシェイプと新しいシェイプについて強調するコミュニティのこのリソースを使用してください。"
+      ],
+      "lists": [
+        "はじめに (Introduction) 0 hr 10 min",
+        "見込み客の特定 Identifying Prospects 0 hr 45 min",
+        "新規顧客の追跡 (Tracking New Customers) 0 hr 35 min",
+        "プロセスの管理とスケジュール Manage and Schedule Processes 1 hr 15 min",
+        "開発ライフサイクル Development Life Cycle 0 hr 30 min",
+        "プロパティを理解する -Understanding Properties 0 hr 30 min",
+        "ドキュメントのフロー Document Flow 0 hr 20 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "アソシエイトアドミニストレーション (Japanese Associate Administration)",
+    "description": "ユーザー管理、ライセンス付与、パッケージ化、デプロイとプロセススケジューリング 、ダッシュボード、ログ ファイル、アラート、実行環境エクステンション、およびドキュメント トラッキングのトレーニングです。",
+    "duration": "2 hr 30 min",
+    "link": "https://train.boomi.com/japanese-associate-administration",
+    "details": {
+      "paragraphs": [
+        "これは、Boomi アドミニストレーターの旅路における最初のコースです。ユーザー管理、ライセンス付与、パッケージ化、デプロイとプロセススケジューリング 、ダッシュボード、ログ ファイル、アラート、実行環境エクステンション、およびドキュメント トラッキングのトレーニングです。",
+        "AtomSphere プラットフォームは、機能とユーザーエクスペリエンスの向上のため、定期的にアップデートされます。このトレーニングの一部の画像や詳細は、実際の AtomSphere プラットフォームでの表示と異なる場合があります。",
+        "本コースの問題や不具合等に関するお問い合わせは、以下にご連絡ください。",
+        "japan-training@boomi.com"
+      ],
+      "lists": [
+        "Materials",
+        "概要、ランタイムオプション、実行環境",
+        "アソシエイトアドミニストレーション：プロセスレポート 0 hr 30 min",
+        "ユーザー管理",
+        "アソシエイトアドミニストレーション：セクションB 0 hr 20 min",
+        "ライセンス管理",
+        "アソシエイトアドミニストレーション：セクションC 0 hr 5 min",
+        "パッケージ化とデプロイメント",
+        "アソシエイトアドミニストレーション：セクションD 0 hr 15 min",
+        "プロセスレポート",
+        "アソシエイトアドミニストレーション：プロセスレポート 0 hr 30 min",
+        "AtomSphere ダッシュボードと Eメールアラート",
+        "アソシエイトアドミニストレーション：セクションF 0 hr 25 min",
+        "概要、ランタイムオプション、実行環境",
+        "アソシエイトアドミニストレーション：エクステンションとドキュメント追跡 0 hr 25 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "プロフェッショナルAPIデザイン (Japanese Professional API Design)",
+    "description": "このコースでは、AtomSphereで効果的にAPIを設計するのに必要な知識とツールをお届けします。",
+    "duration": "4 hr 0 min",
+    "link": "https://train.boomi.com/api-japanese-professional-api-design",
+    "details": {
+      "paragraphs": [
+        "このコースでは、AtomSphereで効果的にAPIを設計するのに必要な知識とツールをお届けします。統合サービスの下でのAPIの設計、様々なAPIコンポーネントの設定方法、APIの接続性のテストに関する基本的なタスクについて取り上げます。このコースはAPIの作成と設定について学習したいクラウドやネットワークの専門家のためのものです。REST、OData、SOAPといった様々な手法やプロトコルでAPIの作成、設定、コールができるようになります。また、AtomSphereでのこのようなアクションのやり方についても練習します。最後に、API Management （API管理） サービスについても学びます。\n\nObjectives\n\n目的：",
+        "Required Tools\n必須ツール：",
+        "機能やユーザー体験向上のためにAtomSphere プラットフォームは随時更新されています。このトレーニングの画像や詳細はAtomSphere プラットフォームで実際に表示されるものと異なる可能性があります。",
+        "このコースに問題がありましたらjapan-training@boomi.comまでご連絡ください。"
+      ],
+      "lists": [
+        "統合サービスからのAPI設計の始め方を理解する",
+        "Webサービスプロセスを設定して公開する",
+        "REST、OData、SOAPのAPIを作成して設定する",
+        "API Management （API管理） にデプロイしたAPIをレビューしてリクエストを試みる",
+        "ソフトウェアをインストールできる管理者権限のあるMicrosoft WindowsまたはLinuxのコンピューターが必要です。",
+        "PostmanなどのRESTクライアントを自分のコンピューターにダウンロードしてインストールしておく必要があります。",
+        "プロフェッショナルAPIデザイン* 4 hr 0 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "Master Data Hubを始める",
+    "description": "Master Data Hub を使用してマスター データ管理を実装するために必要な基礎知識をカバーしています。",
+    "duration": "3 hr 55 min",
+    "link": "https://train.boomi.com/master-data-hub",
+    "details": {
+      "paragraphs": [
+        "このコースは、マスター データ管理のコンセプトに精通しており、Master Data Hub ソリューションの構築を検討している Boomi のユーザーに適しています。Master Data Hub を使用してマスター データ管理を実装するために必要な基礎知識をカバーしています。組織内のシステムに存在する信頼できるデータを同期して強化するための基本的なソリューションをセットアップする方法を学習できます。本コースのアクティビティでは、マスター データのモデル化を実践できます。データモデルの構築とソース、ルールの設定、モデルのデプロイ、 Boomi Integration サービスを使用したソース間でのデータの同期、レポート、スチュワードシップ、およびフィルター機能を使用したデータ管理を行います。",
+        "目的:",
+        "- ビジネス ユース ケースに対応する Master Data Hub  ソリューションの概要を説明します。",
+        "- Hub にロードされるデータとパラメーターのモデルを定義します。",
+        "- モデルを Hub リポジトリにデプロイします。",
+        "- Hub とIntegration を使用して、ソース間でゴールデン レコードを同期します。",
+        "間隔\n約2時間 (所要時間にはアクティビティは含まれません)",
+        "Recommended Prerequisites\nGetting Started with the AtomSphere Platform\nインテグレーションの基本\nMaster Data Hub Essentials",
+        "機能やユーザー体験向上のためにAtomSphere プラットフォームは随時更新されています。このトレーニングの画像や詳細はAtomSphere プラットフォームで実際に表示されるものと異なる可能性があります。",
+        "このコースに問題がありましたらjapan-training@boomi.comまでご連絡ください。"
+      ],
+      "lists": [
+        "Master Data Hubを始める (Getting Started with Master Data Hub) 0 hr 20 min",
+        "モデルを定義する(Define Your Model) 1 hr 20 min",
+        "モデルをデプロイする (Deploying Your Model) 0 hr 15 min",
+        "同期する (Synchronize) 1 hr 15 min",
+        "スチュワードシップ (Stewardship) 0 hr 45 min",
+        "Explore More",
+        "© 2025"
+      ]
+    }
+  },
+  {
+    "title": "",
+    "description": "",
+    "duration": "",
+    "link": "",
+    "details": {
+      "paragraphs": [],
+      "lists": []
+    }
+  },
+  {
+    "title": "",
+    "description": "",
+    "duration": "",
+    "link": "",
+    "details": {
+      "paragraphs": [],
+      "lists": []
+    }
+  },
+  {
+    "title": "",
+    "description": "",
+    "duration": "",
+    "link": "",
+    "details": {
+      "paragraphs": [],
+      "lists": []
+    }
+  }
+]
