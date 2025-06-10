@@ -11,6 +11,7 @@ const CONFLUENCE_URL = "https://boomii.atlassian.net/wiki/spaces/BR/pages/165472
 const CONFLUENCE_BASE_URL = "https://boomii.atlassian.net";
 const AUTH_EMAIL = process.env.CONFLUENCE_USER;
 const AUTH_API_TOKEN = process.env.CONFLUENCE_API_TOKEN;
+console.log("SLACK_BOT_TOKEN:", process.env.CONFLUENCE_USER);
 
 async function getPageHtml(url) {
   try {
