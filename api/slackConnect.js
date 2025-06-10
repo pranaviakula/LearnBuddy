@@ -142,7 +142,7 @@ function createDetailedPlan(modules) {
     plan.push(`*Day ${day}:* ${title}
 *Morning Session:* ${title} – ${morningDuration}
 *Break:* 15 min
-*Afternoon Session:* Practice & Review – ${afternoonDuration}
+*Afternoon Session:* ${afternoonDuration}
 ${link ? `<${link}|View Course>` : ''}`);
 
     day++;
