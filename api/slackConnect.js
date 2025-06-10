@@ -97,6 +97,7 @@ const dotenv = require('dotenv');
 
 // Load environment variables from .env file
 dotenv.config();
+console.log("SLACK_BOT_TOKEN:", process.env.SLACK_BOT_TOKEN);
 
 const slackToken = process.env.SLACK_BOT_TOKEN;
 const client = new WebClient(slackToken);
