@@ -1,12 +1,11 @@
-// const express = require('express');
 // const { WebClient } = require('@slack/web-api');
 // const dotenv = require('dotenv');
 
 // // Load environment variables from .env file
-// dotenv.config({ debug: true });
+// dotenv.config();
+// console.log("SLACK_BOT_TOKEN:", process.env.SLACK_BOT_TOKEN);
 
 // const slackToken = process.env.SLACK_BOT_TOKEN;
-// console.log('Loaded Slack Token:', slackToken)
 // const client = new WebClient(slackToken);
 
 // // Parse "5 hr 15 min" -> { hours: 5, minutes: 15 }
@@ -61,10 +60,12 @@
 //   return plan.join('\n\n');
 // }
 
-// const app = express();
-// app.use(express.json());
+// // API handler for Vercel serverless function
+// module.exports = async (req, res) => {
+//   if (req.method !== 'POST') {
+//     return res.status(405).json({ error: 'Method Not Allowed' });
+//   }
 
-// app.post('/send-learning-plan', async (req, res) => {
 //   const { slackId, modules } = req.body;
 
 //   if (!slackId || !Array.isArray(modules)) {
@@ -85,13 +86,7 @@
 //     console.error("Error sending message to Slack:", error);
 //     return res.status(500).json({ error: 'Internal Server Error', details: error.message });
 //   }
-// });
-
-// // Start the server
-// const PORT = process.env.PORT || 3000;
-// app.listen(PORT, () => {
-//   console.log(`Server is running on port ${PORT}`);
-// });
+// };
 const { WebClient } = require('@slack/web-api');
 const dotenv = require('dotenv');
 
@@ -106,8 +101,10 @@ const client = new WebClient(slackToken);
 function parseDuration(durationStr) {
   const hrMatch = durationStr.match(/(\d+)\s*hr/);
   const minMatch = durationStr.match(/(\d+)\s*min/);
+  const minOnlyMatch = durationStr.match(/(\d+)\s*min/);  // for cases like "30 minutes"
   const hours = hrMatch ? parseInt(hrMatch[1]) : 0;
-  const minutes = minMatch ? parseInt(minMatch[1]) : 0;
+  const minutes = minMatch ? parseInt(minMatch[1]) : (minOnlyMatch ? parseInt(minOnlyMatch[1]) : 0);
+  
   return { hours, minutes };
 }
 
@@ -117,7 +114,7 @@ function createDetailedPlan(modules) {
   let day = 1;
   let week = 1;
 
-  modules.forEach((module, index) => {
+  modules.forEach((module) => {
     const title = module.title || 'Untitled Module';
     const duration = module.duration || '0 hr 0 min';
     const link = module.link;
