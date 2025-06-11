@@ -89,7 +89,6 @@
 // api/get-training.js
 
 // /api/confluence/confluenceFetch.js
-require('dotenv').config();
 const axios = require('axios');
 const cheerio = require('cheerio');
 
@@ -108,6 +107,7 @@ async function getPageHtml(url) {
     });
     return response.data;
   } catch (error) {
+    console.error("❌ getPageHtml error:", error.response?.status, error.response?.data);
     throw new Error(`Failed to fetch page HTML: ${error.message}`);
   }
 }
@@ -135,13 +135,14 @@ async function getTrainingForRole(links, roleQuery) {
     if (link.title.toLowerCase().includes(roleQuery.toLowerCase())) {
       try {
         const pageHtml = await getPageHtml(link.url);
-        const content = parseTrainingContent(pageHtml);
+        const content = cheerio.load(pageHtml).text().trim();
         return {
           role: link.title,
           url: link.url,
           content
         };
       } catch (error) {
+        console.error("❌ getTrainingForRole error:", error.message);
         return { error: `Failed to fetch page for ${link.title}: ${error.message}` };
       }
     }
@@ -149,34 +150,7 @@ async function getTrainingForRole(links, roleQuery) {
   return { error: `No matching training found for role '${roleQuery}'` };
 }
 
-// Parse detailed content and extract training information (name, link, duration, etc.)
-function parseTrainingContent(htmlBody) {
-  const $ = cheerio.load(htmlBody);
-  const trainingSections = [];
-
-  // Look for tables or divs containing training-related information
-  $('table tr').each((i, row) => {
-    const columns = $(row).find('td');
-    if (columns.length >= 3) {
-      const trainingName = $(columns[0]).text().trim();
-      const trainingLink = $(columns[1]).find('a').attr('href') || '';
-      const duration = $(columns[2]).text().trim();
-
-      if (trainingName && trainingLink && duration) {
-        trainingSections.push({
-          name: trainingName,
-          link: trainingLink,
-          duration: parseFloat(duration) || 0,
-          contact: $(columns[3]).text().trim() || 'N/A'
-        });
-      }
-    }
-  });
-
-  return trainingSections;
-}
-
-export default async (req, res) => {
+const handler = async (req, res) => {
   if (req.method === 'POST') {
     const roleQuery = req.body.role?.trim();
 
@@ -190,9 +164,12 @@ export default async (req, res) => {
       const result = await getTrainingForRole(links, roleQuery);
       return res.status(200).json(result);
     } catch (error) {
+      console.error("❌ Top-level error:", error.message);
       return res.status(500).json({ error: `Internal error: ${error.message}` });
     }
   } else {
     return res.status(405).json({ error: 'Method Not Allowed' });
   }
 };
+
+module.exports = handler;
