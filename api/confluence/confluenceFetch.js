@@ -89,6 +89,7 @@
 // api/get-training.js
 
 // /api/confluence/confluenceFetch.js
+require('dotenv').config();
 const axios = require('axios');
 const cheerio = require('cheerio');
 
@@ -96,8 +97,8 @@ const CONFLUENCE_URL = "https://boomii.atlassian.net/wiki/spaces/BR/pages/165472
 const CONFLUENCE_BASE_URL = "https://boomii.atlassian.net";
 const AUTH_EMAIL = process.env.CONFLUENCE_USER;
 const AUTH_API_TOKEN = process.env.CONFLUENCE_API_TOKEN;
-console.log("CONFLUENCE_USER:", AUTH_EMAIL); // For debugging purposes, ensure this is set correctly
-const getPageHtml = async (url) => {
+
+async function getPageHtml(url) {
   try {
     const response = await axios.get(url, {
       auth: {
@@ -109,9 +110,9 @@ const getPageHtml = async (url) => {
   } catch (error) {
     throw new Error(`Failed to fetch page HTML: ${error.message}`);
   }
-};
+}
 
-const extractLinksFromHtml = (htmlBody) => {
+function extractLinksFromHtml(htmlBody) {
   const $ = cheerio.load(htmlBody);
   const links = [];
 
@@ -127,14 +128,14 @@ const extractLinksFromHtml = (htmlBody) => {
   });
 
   return links;
-};
+}
 
-const getTrainingForRole = async (links, roleQuery) => {
+async function getTrainingForRole(links, roleQuery) {
   for (const link of links) {
     if (link.title.toLowerCase().includes(roleQuery.toLowerCase())) {
       try {
         const pageHtml = await getPageHtml(link.url);
-        const content = cheerio.load(pageHtml).text().trim();
+        const content = parseTrainingContent(pageHtml);
         return {
           role: link.title,
           url: link.url,
@@ -146,9 +147,36 @@ const getTrainingForRole = async (links, roleQuery) => {
     }
   }
   return { error: `No matching training found for role '${roleQuery}'` };
-};
+}
 
-const confluenceFetchHandler = async (req, res) => {
+// Parse detailed content and extract training information (name, link, duration, etc.)
+function parseTrainingContent(htmlBody) {
+  const $ = cheerio.load(htmlBody);
+  const trainingSections = [];
+
+  // Look for tables or divs containing training-related information
+  $('table tr').each((i, row) => {
+    const columns = $(row).find('td');
+    if (columns.length >= 3) {
+      const trainingName = $(columns[0]).text().trim();
+      const trainingLink = $(columns[1]).find('a').attr('href') || '';
+      const duration = $(columns[2]).text().trim();
+
+      if (trainingName && trainingLink && duration) {
+        trainingSections.push({
+          name: trainingName,
+          link: trainingLink,
+          duration: parseFloat(duration) || 0,
+          contact: $(columns[3]).text().trim() || 'N/A'
+        });
+      }
+    }
+  });
+
+  return trainingSections;
+}
+
+export default async (req, res) => {
   if (req.method === 'POST') {
     const roleQuery = req.body.role?.trim();
 
@@ -168,5 +196,3 @@ const confluenceFetchHandler = async (req, res) => {
     return res.status(405).json({ error: 'Method Not Allowed' });
   }
 };
-
-module.exports = confluenceFetchHandler;
