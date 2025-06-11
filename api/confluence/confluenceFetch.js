@@ -90,7 +90,7 @@
 
 // /api/confluence/confluenceFetch.js
 const axios = require('axios');
-const cheerio = require('cheerio');
+const cheerio = require('cheerio').load;
 
 const CONFLUENCE_URL = "https://boomii.atlassian.net/wiki/spaces/BR/pages/16629104646/API+Management+training+Application+Services";
 const CONFLUENCE_BASE_URL = "https://boomii.atlassian.net";
